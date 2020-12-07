@@ -372,6 +372,13 @@ hr {
   box-shadow: 1px 1px 2px #333;
 }
 
+.popup {
+	border: 0.5px solid #333;
+	  border-radius: 2px;
+	  border-style: unset;
+	  line-height: 1.2;
+}
+
 
 /*styling for form within application*/
 

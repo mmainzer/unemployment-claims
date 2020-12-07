@@ -19,6 +19,20 @@ let selectedLevel = [ "State" ];
 let selectedArea = [ "Georgia" ];
 let bbox = selectedArea.map(id => dataObj[selectedLevel].find(({ area }) => area === id).bbox);
 
+// initiate global variables to use outside of d3 call
+let claimData;
+let yClaims;
+let xAxis;
+let barsClaims;
+
+let industryData;
+let xIndustry;
+let yIndustry;
+let barsIndustry;
+
+// date parser
+const parser = d3.timeParse("%m-%d-%Y");
+
 // function for number formatting
 Number.prototype.format = function(n, x) {
     var re = '\\d(?=(\\d{' + (x || 3) + '})+' + (n > 0 ? '\\.' : '$') + ')';

@@ -4,9 +4,18 @@ const flyToBounds = (bbox) => {
 	map.fitBounds(bbox, {
       padding : {top: 55, bottom:20, left: 950, right: 15}
     });
-
-    map.setPaintProperty('countyLine','line-width',["match",["get",selectedLevel[0]],selectedArea,2.5,0.5]);
-
+	if (selectedLevel[0] != "State") {
+		map.setPaintProperty('countyLine','line-width',["match",["get",selectedLevel[0]],selectedArea,2.5,0.5]);
+	    map.setFilter('countyFill',["all",["match",["get",selectedLevel[0]],selectedArea,true,false]]);
+	    map.setFilter('countyPoints',["all",["match",["get",selectedLevel[0]],selectedArea,true,false]]);
+	    map.setFilter('countyLine',["all",["match",["get",selectedLevel[0]],selectedArea,true,false]]);
+	} else {
+		map.setPaintProperty('countyLine','line-width',0.5);
+	    map.setFilter('countyFill', undefined);
+	    map.setFilter('countyPoints', undefined);
+	    map.setFilter('countyLine', undefined);
+	}
+    
 }
 
 // when reset icon is clicked, fly to the original center of map

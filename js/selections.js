@@ -14,127 +14,66 @@ $("#styleSelect").change(function() {
 
 });
 
-// function for building a table from a dataset
-function buildTable(dataset,selectedGeo) {
-	// if Datatable currently exists, then clear and kill it
-	if ( $.fn.dataTable.isDataTable('#claimsTable') ) {
-		$('#claimsTable').DataTable().destroy();
-	}
+// // function for building the industry table
+// function buildIndustryTable(dataset,selectedGeo) {
+// 	// if Datatable currently exists, then clear and kill it
+// 	if ( $.fn.dataTable.isDataTable('#industryTable') ) {
+// 		$('#industryTable').DataTable().destroy();
+// 	}
 
-	dataset = dataset.filter(function(d){return d.Area==selectedGeo})
-	// get list of headers
-	let str = '<tr>';
-	let headers = ['Area', 'Date', 'Claims'];
-	headers.forEach(function(header) {
-		str += '<th>' + header + '</th>';
-	});
+// 	// filter the dataset
+// 	dataset = dataset.filter(function(d){return d.Area==selectedGeo})
+// 	// get appropriate headers and build in table
+// 	let str = '<tr>';
+// 	let headers = ['Area','Industry','Claims'];
+// 	headers.forEach(function(header) {
+// 		str += '<th>' + header + '</th>';
+// 	});
+// 	str += '</tr>';
+// 	$('#industryTable thead').html(str);
 
-	str += '</tr>';
-	$('#claimsTable thead').html(str);
+// 	// restructure data
+// 	let arrAll = [];
+// 	dataset.forEach(function(element) {
+// 		let tempArray = [];
+// 		let area = element.Area;
+// 		let ind = element.Industry;
+// 		let claims = element.Claims.format();
+// 		tempArray.push(area);
+// 		tempArray.push(ind);
+// 		tempArray.push(claims);
+// 		arrAll.push(tempArray);
+// 	});
 
-	console.log(dataset);
+// 	console.log(dataset);
+// 	console.log(arrAll);
 
-	let arrAll = [];
-	dataset.forEach(function(element) {
-		// push dates for column headers
-		let tempArray = [];
-		let area = element.Area;
-		let date = element.date;
-		let claims = element.Claims.format();
-		tempArray.push(area);
-		tempArray.push(date);
-		tempArray.push(claims);
-		arrAll.push(tempArray)
-	});
+// 	// build row and send to html table
+// 	arrAll.forEach(function(rowData) {
+// 		let row = document.createElement('tr');
+// 		rowData.forEach(function(cellData) {
+// 			let cell = document.createElement('td');
+// 			cell.appendChild(document.createTextNode(cellData));
+// 			row.appendChild(cell);
+// 		});
+// 		$("#industryTable tbody").append(row);
+// 	});
 
-	// build row and send to html table
-	arrAll.forEach(function(rowData) {
-		let row = document.createElement('tr');
-		rowData.forEach(function(cellData) {
-			let cell = document.createElement('td');
-			cell.appendChild(document.createTextNode(cellData));
-			row.appendChild(cell);
-		});
-		$("#claimsTable tbody").append(row);
-	});
-
-	console.log(arrAll);
-
-	// make as a datatable for search, pagination, sort and export
-	$('#claimsTable').DataTable({
-				"lengthChange" : false,
-				"pageLength" : 5,
-				"autoWidth" : true,
-				"dom" : "Bfrtip",
-				"pagingType" : "full",
-				"buttons" : [
-					{extend: 'csv', exportOptions:{columns:':visible'}}
-				],
-				"colReorder" : false
-			});
-
-}
-
-// function for building the industry table
-function buildIndustryTable(dataset,selectedGeo) {
-	// if Datatable currently exists, then clear and kill it
-	if ( $.fn.dataTable.isDataTable('#industryTable') ) {
-		$('#industryTable').DataTable().destroy();
-	}
-
-	// filter the dataset
-	dataset = dataset.filter(function(d){return d.Area==selectedGeo})
-	// get appropriate headers and build in table
-	let str = '<tr>';
-	let headers = ['Area','Industry','Claims'];
-	headers.forEach(function(header) {
-		str += '<th>' + header + '</th>';
-	});
-	str += '</tr>';
-	$('#industryTable thead').html(str);
-
-	// restructure data
-	let arrAll = [];
-	dataset.forEach(function(element) {
-		let tempArray = [];
-		let area = element.Area;
-		let ind = element.Industry;
-		let claims = element.Claims.format();
-		tempArray.push(area);
-		tempArray.push(ind);
-		tempArray.push(claims);
-		arrAll.push(tempArray);
-	});
-
-	console.log(dataset);
-	console.log(arrAll);
-
-	// build row and send to html table
-	arrAll.forEach(function(rowData) {
-		let row = document.createElement('tr');
-		rowData.forEach(function(cellData) {
-			let cell = document.createElement('td');
-			cell.appendChild(document.createTextNode(cellData));
-			row.appendChild(cell);
-		});
-		$("#industryTable tbody").append(row);
-	});
-
-	// make as a datatable for search, pagination, sort and export
-	$('#industryTable').DataTable({
-		"lengthChange" : false,
-		"pageLength" : 5,
-		"autoWidth" : true,
-		"dom" : "Bfrtip",
-		"pagingType" : "full",
-		"buttons" : [
-			{extend: 'csv', exportOptions:{columns:':visible'}}
-		],
-		"colReorder" : false
-	});
+// 	// make as a datatable for search, pagination, sort and export
+// 	$('#industryTable').DataTable({
+// 		"lengthChange" : false,
+// 		"pageLength" : 5,
+// 		"autoWidth" : true,
+// 		"dom" : "Bfrtip",
+// 		"pagingType" : "full",
+// 		"buttons" : [
+// 			{extend: 'csv', exportOptions:{columns:':visible'}}
+// 		],
+// 		"colReorder" : false
+// 	});
 
 
-}
+// }
 
 //populate the geography dropdown based on the level that's been chosen in the level dropdown
 $("#levelSelect").change(function() {
@@ -165,8 +104,8 @@ $("#levelSelect").change(function() {
 	bbox = bbox[0];
 
 	update(selectedArea[0]);
-	// buildTable(claimData,selectedArea[0]);
-	// buildIndustryTable(industryData,selectedArea[0]);
+	buildTable(claimData,selectedArea[0]);
+	buildIndustryTable(industryData,selectedArea[0]);
 	flyToBounds(bbox);
 
 });
@@ -175,14 +114,16 @@ $("#levelSelect").change(function() {
 $("#geoSelect").change(function() {
 	// recover selected option
 	selectedLevel = [ $('#levelSelect option:selected').text() ];
-	selectedArea = [ $("#geoSelect option").first().text() ];
+	selectedArea = [ $("#geoSelect option:selected").text() ];
+	console.log(selectedLevel);
+	console.log(selectedArea);
 
 	bbox = selectedArea.map(id => dataObj[selectedLevel].find(({ area }) => area === id).bbox);
 	bbox = bbox[0];
 	
 	update(selectedArea[0]);
-	// buildTable(claimData,selectedOption);
-	// buildIndustryTable(industryData,selectedOption);
+	buildTable(claimData,selectedArea[0]);
+	buildIndustryTable(industryData,selectedArea[0]);
 	flyToBounds(bbox);
 
 });
