@@ -1,5 +1,5 @@
 
-mapboxgl.accessToken = 'pk.eyJ1IjoibW1haW56ZXIiLCJhIjoiY2s2Y2pjNHRyMWN5cDNtcWVudmFhNDJ0diJ9.8b7KyCNL_Xv_fAEiLMQXdg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ3BjZWNvbmRldiIsImEiOiJja2llbW1lbXcwZHJ3MnBxd2JoaTg5ajFnIn0.kaY1Tg-CL7BOwVm-q6mBeQ';
 
 // check for screen width to set zoom and center
 
@@ -8,6 +8,7 @@ let centerCoords;
 let width;
 let indWidth;
 const windowSize = $( window ).width();
+
 console.log(windowSize);
 if (windowSize >= 1450) {
 	zoomLevel = 6.56;
@@ -33,135 +34,108 @@ if (windowSize >= 1450) {
 
 const map = new mapboxgl.Map({
   container: 'map', // container id
-  style: 'mapbox://styles/mmainzer/ckacpi9v74oh21in65nw0vxrt?fresh=true', // stylesheetmapbox://styles/mmainzer/ck5r0lcgr0eti1iqiiglddux6
+  style: 'mapbox://styles/gpcecondev/ckiemo0q33dft19p9kf2g28gt?fresh=true',
   center: centerCoords,
   zoom: zoomLevel, // starting zoom,
   maxZoom:9,
-  scrollZoom: false
+  scrollZoom: true
 });
 
-const nav = new mapboxgl.NavigationControl();
-map.addControl(nav, 'bottom-right')
+// add zoom and rotation controls to the map
+const nav = new mapboxgl.NavigationControl({showCompass:false});
+map.addControl(nav, 'top-right');
+
+// add another control at the bottom with a zoom to extent button
+const resetIcon = "<button class='mapboxgl-ctrl-reset' type='button' title='Reset Map' aria-label='Reset Map'><span class='reset-map-icon' aria-hidden='true'><img class='reset-icon' src='./assets/images/map-regular.svg'></span></button>"
+$(".mapboxgl-ctrl.mapboxgl-ctrl-group").append(resetIcon);
+
+// Create a popup, but don't add it to the map yet.
+const fillPopup = new mapboxgl.Popup({
+	closeButton: false,
+	closeOnClick: false
+});
+
+const pointPopup = new mapboxgl.Popup({
+	closeButton: false,
+	closeOnClick: false
+});
 
 // add necessary layers
 
 map.on('load', function() {
 
-	map.addSource('county-poly', {
+	map.addSource('points', {
 		type: 'vector',
-		url: 'mapbox://mmainzer.al0x4122?fresh=true'
+		url: 'mapbox://gpcecondev.duztgmd2?fresh=true'
 	});
 
-	map.addSource('county-points', {
+	map.addSource('fill', {
 		type: 'vector',
-		url: 'mapbox://mmainzer.9gsjan8j?fresh=true'
-	});
-
-	map.addSource('msa', {
-		type: 'vector',
-		url: 'mapbox://mmainzer.5r9p7e10?fresh=true'
-	});
-
-	map.addSource('rc', {
-		type: 'vector',
-		url: 'mapbox://mmainzer.1jivkh0l?fresh=true'
+		url: 'mapbox://gpcecondev.ac721y40?fresh=true'
 	});
 
 	map.addLayer({
         'id':'countyFill',
         'type':'fill',
-        'source':'county-poly',
+        'source':'fill',
+        'layout': {
+          'visibility':'none',
+        },
+        'paint': {
+          "fill-color": ["interpolate",["linear"],["get", "Claims"],
+							  378,"hsla(246, 100%, 94%, 0.8)",
+							  2240,"hsla(245, 39%, 81%, 0.8)",
+							  4803,"hsla(244, 28%, 68%, 0.8)",
+							  9235,"hsla(242, 22%, 56%, 0.8)",
+							  29521,"hsla(240, 24%, 45%, 0.8)",
+							  75937,"hsla(236, 37%, 33%, 0.8)",
+							  555240,"hsla(224, 83%, 19%, 0.8)"
+						],
+          "fill-outline-color": "hsla(0, 0%, 0%, 0)"
+        },
+        'source-layer': 'countyClaimsFill'
+      }, 'admin-1-boundary-bg')
+
+	map.addLayer({
+        'id':'countyLine',
+        'type':'line',
+        'source':'fill',
         'layout': {
           'visibility':'visible',
         },
         'paint': {
-          "fill-color": ["interpolate",
-          					["linear"],
-          					["get", "PctFebLabor"],
-				          	  10,"hsla(224, 83%, 28%, 0.8)",
-							  20,"hsla(213, 66%, 40%, 0.8)",
-							  30,"hsla(197, 74%, 43%, 0.8)",
-							  40,"hsla(186, 53%, 51%, 0.8)",
-							  50,"hsla(166, 44%, 65%, 0.8)",
-							  60,"hsla(98, 55%, 81%, 0.8)",
-							  80,"hsla(60, 100%, 90%, 0.8)"],
-          "fill-outline-color": "#fff"
+          "line-color": "#fff",
+          "line-width": 0.5
         },
-        'source-layer': 'countyShapes'
-      }, 'road-label')
+        'source-layer': 'countyClaimsFill'
+      }, 'admin-1-boundary-bg')
 
 	map.addLayer({
-		'id':'countyLines',
-		'type':'line',
-		'source':'county-poly',
-		'layout': {
-			'visibility':'none'
-		},
-		'paint': {
-			'line-color':'#fff',
-			'line-width':5
-		},
-		'source-layer':'countyShapes'
-	}, 'road-label')
-
-	map.addLayer({
-		'id':'msaLines',
-		'type':'line',
-		'source':'msa',
-		'layout': {
-			'visibility':'none'
-		},
-		'paint': {
-			'line-color':'#fff',
-			'line-width':5
-		},
-		'source-layer':'gamsa'
-	}, 'road-label')
-
-	map.addLayer({
-		'id':'rcLines',
-		'type':'line',
-		'source':'rc',
-		'layout': {
-			'visibility':'none'
-		},
-		'paint': {
-			'line-color':'#fff',
-			'line-width':5
-		},
-		'source-layer':'regionalcommissions'
-	}, 'road-label')
-
-
-	map.addLayer({
-		'id':'points',
+		'id':'countyPoints',
 		'type':'circle',
-		'source':'county-points',
+		'source':'points',
 		'layout': {
 			'visibility':'visible'
 		},
 		'paint': {
-			'circle-color':"hsla(0, 0%, 15%, 0.25)",
+			'circle-color':"hsla(242, 22%, 56%, 0.8)",
 			'circle-opacity':1,
 			'circle-stroke-color':"#252525",
 			'circle-stroke-width':1,
 			'circle-radius':[
 							  "interpolate",
 							  ["linear"],
-							  ["get", "CumClaims"],
-								  60,5,
-								  15077,9,
-								  30093,13,
-								  60126,17,
-								  90159,21,
-								  120192,25,
-								  150225,29,
-								  180258,33,
-								  210291,37,
-								  240324,41
-								]
+							  ["get", "Claims"],
+								  378,5,
+								  2240,7,
+								  4803,9,
+								  9235,11,
+								  29521,13,
+								  75937,25,
+								  555240,50
+							]
 		},
-		'source-layer':'countyPoints'
+		'source-layer':'countyClaimsPoint'
 	}, 'road-label')
 
 

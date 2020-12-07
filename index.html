@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.20/b-1.6.1/b-colvis-1.6.1/b-html5-1.6.1/cr-1.5.2/r-2.2.3/datatables.min.css"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
-    <link href='https://api.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
     <link rel="stylesheet" href="https://use.typekit.net/onw2tsq.css">
     <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -41,13 +41,14 @@
             <div class="row select-row key">
               <div class="col map-key points active">
                 <div class="key-bubbles">
-                  <div class="key-bubble-label"><span id="minSize" class="min-key-value key-value">60 Claims</span></div>
+                  <div class="key-bubble-label"><span id="minSize" class="min-key-value key-value">500 Claims</span></div>
                   <div class="key-bubbles-wrap">
                     <div class="key-bubble" style="width: 4px; height: 4px;"></div>
                     <div class="key-bubble" style="width: 14px; height: 14px;"></div>
+                    <div class="key-bubble" style="width: 24px; height: 24px;"></div>
                     <div class="key-bubble" style="width: 44px; height: 44px;"></div>
                   </div>
-                  <div class="key-bubble-label"><span id="maxSize" class="max-key-value key-value">240K</span></div>
+                  <div class="key-bubble-label"><span id="maxSize" class="max-key-value key-value">500K</span></div>
                 </div>
               </div>
               <div class="col map-key fill">
@@ -69,7 +70,7 @@
             <div class="row select-row selections">
               <div class="col-4">
                 <h5 class='select-title'>Geography</h5>
-                <select id="level-select" class="single-select" name="state">
+                <select id="levelSelect" class="single-select" name="state">
                   <option value="state">State</option>
                   <option value="county">County</option>
                   <option value="msa">MSA</option>
@@ -78,15 +79,15 @@
               </div>
               <div class="col-4">
                 <h5 class='select-title'>Area</h5>
-                <select id="geo-select" class="single-select" name="state">
+                <select id="geoSelect" class="single-select" name="state">
                   <option value="0">Georgia</option>
                 </select>
               </div>
               <div class="col-4">
-                <h5 class='select-title'>Syle Layer</h5>
+                <h5 class='select-title'>Style Layer</h5>
                 <select id="styleSelect" class="single-select" name="styleSelect">
-                  <option value="0">Points</option>
-                  <option value="1">Fill</option>
+                  <option value="countyPoints">Points</option>
+                  <option value="countyFill">Fill</option>
                 </select>
               </div>
             </div>
@@ -94,23 +95,15 @@
 
           <div class="side-panel-title side-panel-section">
             <h1 id="geo">Georgia</h1>
-            <p class="subtitle">Workforce Impact Since March 2020</p>
+            <p class="subtitle"><span class="kpiSub" id="totalClaims"></span> Unemployment Insurance Claims Since March 2020</p>
           </div>
 
-          <div id="kpiWrapper" class="row kpi side-panel-section">
-            <div>
-              <h4 id="kpiOne"></h5>
-              <p class="kpiSub">Feb Labor Force</p>
-            </div>
-            <div>
-              <h4 id="kpiTwo"></h5>
-              <p class="kpiSub">Claims Since March</p>
-            </div>
-            <div>
-              <h4 id="kpiThree"></h5>
-              <p class="kpiSub">% of Feb Labor Force</p>
-            </div>
-          </div>
+          <!-- <div id="kpiWrapper" class="row kpi side-panel-section"> -->
+            <!-- <div> -->
+              <!-- <h4 id="totalClaims"></h5> -->
+              <!-- <p class="kpiSub">Claims Since March</p> -->
+            <!-- </div> -->
+          <!-- </div> -->
           <div class="side-panel-section">
             <h2 class="chart-title">Weekly UI Claims</h2>
             <div id="claimsBar">
@@ -149,32 +142,21 @@
               </table>
             </div>
           </div>
-          <div class="side-panel-table side-panel-section">
-            <h2 class="chart-title">Layoffs and Closures in 2020</h2>
-            <div class="table-container table-responsive">
-
-              <table id="warnsTable" class="table table-hover" style="width:95%; margin:auto">
-                <thead class="thead-dark">
-                  <!-- dynamically generate rows via jquery iteration through headers array -->
-                </thead>
-                <tbody>
-                  <!-- dynamically generate rows via jquery iteration through headers array -->
-                </tbody>
-              </table>
-            </div>
-          </div>
         </div>
 
 
     <script src="https://code.jquery.com/jquery-3.5.0.slim.min.js" integrity="sha256-MlusDLJIP1GRgLrOflUQtshyP0TwT/RHXsI1wWGnQhs=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.20/b-1.6.1/b-colvis-1.6.1/b-html5-1.6.1/cr-1.5.2/r-2.2.3/datatables.min.js"></script>
-    <script src='https://api.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
     <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <!-- load all scripts here  -->
-    <script type="text/javascript" src="js/data.js"></script>
+    <script type="text/javascript" src="data/data.js"></script>
+    <script type="text/javascript" src="js/onLoad.js"></script>
     <script type="text/javascript" src="js/selections.js"></script>
     <script type="text/javascript" src="js/map.js"></script>
+    <script type="text/javascript" src="js/mapEvents.js"></script>
     <script type="text/javascript" src="js/charts.js"></script>
+    <script type="text/javascript" src="js/updateCharts.js"></script>
   </body>
 </html>

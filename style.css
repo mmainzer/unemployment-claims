@@ -321,6 +321,57 @@ hr {
 	display: none;
 }
 
+.reset-icon {
+  max-width: 60%;
+}
+
+.reset-map-icon {
+  padding-left: 2.5px;
+}
+
+.mapbox-improve-map {
+  display: none;
+}
+
+.popup-header {
+  font-size: 16px;
+  font-family: jaf-bernina-sans, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.popup-description {
+  font-family: jaf-bernina-sans, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.mapboxgl-popup-tip {
+  display: none;
+}
+
+.mapboxgl-popup {
+  border: 0.5px solid #333;
+  border-radius: 2px;
+  border-style: unset;
+  line-height: 1.2;
+}
+
+.mapboxgl-popup-content {
+  background-color: rgba(255, 255, 255, 0.9);
+  box-sizing: border-box;
+  text-align: left;
+  min-width: 225px;
+  position: absolute;
+  bottom: 0;
+  border-radius: 2px;
+  padding: 7px 10px;
+  pointer-events: none;
+  box-shadow: 1px 1px 2px #333;
+}
+
 
 /*styling for form within application*/
 
@@ -363,7 +414,10 @@ hr {
 }
 
 .kpiSub {
-	font-size: .75rem;
+	font-family: jaf-bernina-sans, sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 1.2rem;
 }
 
 /*styling for charts*/
@@ -564,7 +618,7 @@ span {
 
 .key-bubble {
 	border: 1px solid #252525;
-	background-color: rgba(37, 37, 37, 0.25);
+	background-color: hsla(242, 22%, 56%, 0.8);
 	border-radius: 500px;
 	margin: 0 3px;
 }

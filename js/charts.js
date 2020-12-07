@@ -61,7 +61,7 @@ d3.csv('https://raw.githubusercontent.com/mmainzer/covid-recovery/master/data/ap
 					.padding(0.2);
 
 		// let xAxis = d3.axisBottom(x).tickValues(x.domain());
-		xAxis = d3.axisBottom(x).tickValues(x.domain());
+		xAxis = d3.axisBottom(x).tickValues(x.domain().filter((d,i)=>{return!(i%10)}));
 
 		svgClaims.append("g")
 					.attr( "transform", "translate(0," + height + ")" )
