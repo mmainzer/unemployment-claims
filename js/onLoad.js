@@ -7,7 +7,6 @@ const isInternetExplorer = () => {
 const showBrowserAlert = () => {
 	if(isInternetExplorer()){
        // Do not show initial form
-       $("#form").hide();
        $("#browserAlert").show();
     } else {
     	console.log('All good');
