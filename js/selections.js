@@ -127,3 +127,10 @@ $("#geoSelect").change(function() {
 	flyToBounds(bbox);
 
 });
+
+$("#downloadAll").click( function(e) {
+	console.log("Download it!");
+	// data = "https://raw.githubusercontent.com/mmainzer/unemployment-claims/main/data/countyMonthlyClaims.csv";
+	e.preventDefault();
+	window.location.href = "https://raw.githubusercontent.com/mmainzer/unemployment-claims/main/data/countyMonthlyClaims.csv";
+});
