@@ -1,5 +1,4 @@
 Area,Date,date,Claims
-Georgia,01/02/2021,Jan 02,34695
 Georgia,03/07/2020,Mar 07,5083
 Georgia,03/14/2020,Mar 14,5913
 Georgia,03/21/2020,Mar 21,12432
@@ -43,7 +42,7 @@ Georgia,12/05/2020,Dec 05,35916
 Georgia,12/12/2020,Dec 12,25600
 Georgia,12/19/2020,Dec 19,25760
 Georgia,12/26/2020,Dec 26,20906
-Appling County,01/02/2021,Jan 02,50
+Georgia,01/02/2021,Jan 02,34695
 Appling County,03/07/2020,Mar 07,5
 Appling County,03/14/2020,Mar 14,6
 Appling County,03/21/2020,Mar 21,5
@@ -87,7 +86,7 @@ Appling County,12/05/2020,Dec 05,38
 Appling County,12/12/2020,Dec 12,32
 Appling County,12/19/2020,Dec 19,34
 Appling County,12/26/2020,Dec 26,21
-Atkinson County,01/02/2021,Jan 02,278
+Appling County,01/02/2021,Jan 02,50
 Atkinson County,03/07/2020,Mar 07,50
 Atkinson County,03/14/2020,Mar 14,40
 Atkinson County,03/21/2020,Mar 21,32
@@ -131,7 +130,7 @@ Atkinson County,12/05/2020,Dec 05,198
 Atkinson County,12/12/2020,Dec 12,182
 Atkinson County,12/19/2020,Dec 19,196
 Atkinson County,12/26/2020,Dec 26,196
-Bacon County,01/02/2021,Jan 02,76
+Atkinson County,01/02/2021,Jan 02,278
 Bacon County,03/07/2020,Mar 07,82
 Bacon County,03/14/2020,Mar 14,10
 Bacon County,03/21/2020,Mar 21,14
@@ -175,7 +174,7 @@ Bacon County,12/05/2020,Dec 05,66
 Bacon County,12/12/2020,Dec 12,50
 Bacon County,12/19/2020,Dec 19,54
 Bacon County,12/26/2020,Dec 26,60
-Baker County,01/02/2021,Jan 02,7
+Bacon County,01/02/2021,Jan 02,76
 Baker County,03/07/2020,Mar 07,2
 Baker County,03/14/2020,Mar 14,6
 Baker County,03/21/2020,Mar 21,2
@@ -219,7 +218,7 @@ Baker County,12/05/2020,Dec 05,14
 Baker County,12/12/2020,Dec 12,8
 Baker County,12/19/2020,Dec 19,3
 Baker County,12/26/2020,Dec 26,5
-Baldwin County,01/02/2021,Jan 02,98
+Baker County,01/02/2021,Jan 02,7
 Baldwin County,03/07/2020,Mar 07,17
 Baldwin County,03/14/2020,Mar 14,17
 Baldwin County,03/21/2020,Mar 21,12
@@ -263,7 +262,7 @@ Baldwin County,12/05/2020,Dec 05,116
 Baldwin County,12/12/2020,Dec 12,86
 Baldwin County,12/19/2020,Dec 19,95
 Baldwin County,12/26/2020,Dec 26,56
-Banks County,01/02/2021,Jan 02,70
+Baldwin County,01/02/2021,Jan 02,98
 Banks County,03/07/2020,Mar 07,8
 Banks County,03/14/2020,Mar 14,40
 Banks County,03/21/2020,Mar 21,17
@@ -307,7 +306,7 @@ Banks County,12/05/2020,Dec 05,71
 Banks County,12/12/2020,Dec 12,71
 Banks County,12/19/2020,Dec 19,59
 Banks County,12/26/2020,Dec 26,61
-Barrow County,01/02/2021,Jan 02,147
+Banks County,01/02/2021,Jan 02,70
 Barrow County,03/07/2020,Mar 07,27
 Barrow County,03/14/2020,Mar 14,41
 Barrow County,03/21/2020,Mar 21,62
@@ -351,7 +350,7 @@ Barrow County,12/05/2020,Dec 05,186
 Barrow County,12/12/2020,Dec 12,155
 Barrow County,12/19/2020,Dec 19,138
 Barrow County,12/26/2020,Dec 26,127
-Bartow County,01/02/2021,Jan 02,866
+Barrow County,01/02/2021,Jan 02,147
 Bartow County,03/07/2020,Mar 07,45
 Bartow County,03/14/2020,Mar 14,67
 Bartow County,03/21/2020,Mar 21,154
@@ -395,7 +394,7 @@ Bartow County,12/05/2020,Dec 05,1176
 Bartow County,12/12/2020,Dec 12,244
 Bartow County,12/19/2020,Dec 19,258
 Bartow County,12/26/2020,Dec 26,274
-Ben Hill County,01/02/2021,Jan 02,190
+Bartow County,01/02/2021,Jan 02,866
 Ben Hill County,03/07/2020,Mar 07,10
 Ben Hill County,03/14/2020,Mar 14,8
 Ben Hill County,03/21/2020,Mar 21,44
@@ -439,7 +438,7 @@ Ben Hill County,12/05/2020,Dec 05,122
 Ben Hill County,12/12/2020,Dec 12,50
 Ben Hill County,12/19/2020,Dec 19,53
 Ben Hill County,12/26/2020,Dec 26,45
-Berrien County,01/02/2021,Jan 02,79
+Ben Hill County,01/02/2021,Jan 02,190
 Berrien County,03/07/2020,Mar 07,25
 Berrien County,03/14/2020,Mar 14,13
 Berrien County,03/21/2020,Mar 21,17
@@ -483,7 +482,7 @@ Berrien County,12/05/2020,Dec 05,50
 Berrien County,12/12/2020,Dec 12,49
 Berrien County,12/19/2020,Dec 19,60
 Berrien County,12/26/2020,Dec 26,57
-Bibb County,01/02/2021,Jan 02,348
+Berrien County,01/02/2021,Jan 02,79
 Bibb County,03/07/2020,Mar 07,62
 Bibb County,03/14/2020,Mar 14,77
 Bibb County,03/21/2020,Mar 21,134
@@ -527,7 +526,7 @@ Bibb County,12/05/2020,Dec 05,485
 Bibb County,12/12/2020,Dec 12,348
 Bibb County,12/19/2020,Dec 19,377
 Bibb County,12/26/2020,Dec 26,248
-Bleckley County,01/02/2021,Jan 02,48
+Bibb County,01/02/2021,Jan 02,348
 Bleckley County,03/07/2020,Mar 07,10
 Bleckley County,03/14/2020,Mar 14,32
 Bleckley County,03/21/2020,Mar 21,24
@@ -571,7 +570,7 @@ Bleckley County,12/05/2020,Dec 05,60
 Bleckley County,12/12/2020,Dec 12,58
 Bleckley County,12/19/2020,Dec 19,54
 Bleckley County,12/26/2020,Dec 26,44
-Brantley County,01/02/2021,Jan 02,74
+Bleckley County,01/02/2021,Jan 02,48
 Brantley County,03/07/2020,Mar 07,12
 Brantley County,03/14/2020,Mar 14,16
 Brantley County,03/21/2020,Mar 21,14
@@ -615,7 +614,7 @@ Brantley County,12/05/2020,Dec 05,90
 Brantley County,12/12/2020,Dec 12,62
 Brantley County,12/19/2020,Dec 19,80
 Brantley County,12/26/2020,Dec 26,66
-Brooks County,01/02/2021,Jan 02,34
+Brantley County,01/02/2021,Jan 02,74
 Brooks County,03/07/2020,Mar 07,5
 Brooks County,03/14/2020,Mar 14,3
 Brooks County,03/21/2020,Mar 21,9
@@ -659,7 +658,7 @@ Brooks County,12/05/2020,Dec 05,31
 Brooks County,12/12/2020,Dec 12,25
 Brooks County,12/19/2020,Dec 19,27
 Brooks County,12/26/2020,Dec 26,25
-Bryan County,01/02/2021,Jan 02,63
+Brooks County,01/02/2021,Jan 02,34
 Bryan County,03/07/2020,Mar 07,11
 Bryan County,03/14/2020,Mar 14,28
 Bryan County,03/21/2020,Mar 21,66
@@ -703,7 +702,7 @@ Bryan County,12/05/2020,Dec 05,99
 Bryan County,12/12/2020,Dec 12,82
 Bryan County,12/19/2020,Dec 19,95
 Bryan County,12/26/2020,Dec 26,53
-Bulloch County,01/02/2021,Jan 02,470
+Bryan County,01/02/2021,Jan 02,63
 Bulloch County,03/07/2020,Mar 07,222
 Bulloch County,03/14/2020,Mar 14,84
 Bulloch County,03/21/2020,Mar 21,172
@@ -747,7 +746,7 @@ Bulloch County,12/05/2020,Dec 05,564
 Bulloch County,12/12/2020,Dec 12,308
 Bulloch County,12/19/2020,Dec 19,378
 Bulloch County,12/26/2020,Dec 26,298
-Burke County,01/02/2021,Jan 02,67
+Bulloch County,01/02/2021,Jan 02,470
 Burke County,03/07/2020,Mar 07,26
 Burke County,03/14/2020,Mar 14,14
 Burke County,03/21/2020,Mar 21,10
@@ -791,7 +790,7 @@ Burke County,12/05/2020,Dec 05,97
 Burke County,12/12/2020,Dec 12,53
 Burke County,12/19/2020,Dec 19,54
 Burke County,12/26/2020,Dec 26,48
-Butts County,01/02/2021,Jan 02,180
+Burke County,01/02/2021,Jan 02,67
 Butts County,03/07/2020,Mar 07,22
 Butts County,03/14/2020,Mar 14,28
 Butts County,03/21/2020,Mar 21,38
@@ -835,7 +834,7 @@ Butts County,12/05/2020,Dec 05,148
 Butts County,12/12/2020,Dec 12,126
 Butts County,12/19/2020,Dec 19,158
 Butts County,12/26/2020,Dec 26,84
-Calhoun County,01/02/2021,Jan 02,76
+Butts County,01/02/2021,Jan 02,180
 Calhoun County,03/07/2020,Mar 07,16
 Calhoun County,03/14/2020,Mar 14,20
 Calhoun County,03/21/2020,Mar 21,28
@@ -879,7 +878,7 @@ Calhoun County,12/05/2020,Dec 05,92
 Calhoun County,12/12/2020,Dec 12,64
 Calhoun County,12/19/2020,Dec 19,66
 Calhoun County,12/26/2020,Dec 26,52
-Camden County,01/02/2021,Jan 02,88
+Calhoun County,01/02/2021,Jan 02,76
 Camden County,03/07/2020,Mar 07,10
 Camden County,03/14/2020,Mar 14,10
 Camden County,03/21/2020,Mar 21,21
@@ -923,7 +922,7 @@ Camden County,12/05/2020,Dec 05,100
 Camden County,12/12/2020,Dec 12,64
 Camden County,12/19/2020,Dec 19,93
 Camden County,12/26/2020,Dec 26,47
-Candler County,01/02/2021,Jan 02,43
+Camden County,01/02/2021,Jan 02,88
 Candler County,03/07/2020,Mar 07,12
 Candler County,03/14/2020,Mar 14,5
 Candler County,03/21/2020,Mar 21,19
@@ -967,7 +966,7 @@ Candler County,12/05/2020,Dec 05,35
 Candler County,12/12/2020,Dec 12,20
 Candler County,12/19/2020,Dec 19,22
 Candler County,12/26/2020,Dec 26,8
-Carroll County,01/02/2021,Jan 02,293
+Candler County,01/02/2021,Jan 02,43
 Carroll County,03/07/2020,Mar 07,48
 Carroll County,03/14/2020,Mar 14,74
 Carroll County,03/21/2020,Mar 21,78
@@ -1011,7 +1010,7 @@ Carroll County,12/05/2020,Dec 05,374
 Carroll County,12/12/2020,Dec 12,312
 Carroll County,12/19/2020,Dec 19,267
 Carroll County,12/26/2020,Dec 26,256
-Catoosa County,01/02/2021,Jan 02,189
+Carroll County,01/02/2021,Jan 02,293
 Catoosa County,03/07/2020,Mar 07,14
 Catoosa County,03/14/2020,Mar 14,13
 Catoosa County,03/21/2020,Mar 21,14
@@ -1055,7 +1054,7 @@ Catoosa County,12/05/2020,Dec 05,102
 Catoosa County,12/12/2020,Dec 12,66
 Catoosa County,12/19/2020,Dec 19,55
 Catoosa County,12/26/2020,Dec 26,70
-Charlton County,01/02/2021,Jan 02,44
+Catoosa County,01/02/2021,Jan 02,189
 Charlton County,03/07/2020,Mar 07,2
 Charlton County,03/14/2020,Mar 14,2
 Charlton County,03/21/2020,Mar 21,6
@@ -1099,7 +1098,7 @@ Charlton County,12/05/2020,Dec 05,34
 Charlton County,12/12/2020,Dec 12,28
 Charlton County,12/19/2020,Dec 19,56
 Charlton County,12/26/2020,Dec 26,26
-Chatham County,01/02/2021,Jan 02,619
+Charlton County,01/02/2021,Jan 02,44
 Chatham County,03/07/2020,Mar 07,110
 Chatham County,03/14/2020,Mar 14,100
 Chatham County,03/21/2020,Mar 21,369
@@ -1143,7 +1142,7 @@ Chatham County,12/05/2020,Dec 05,867
 Chatham County,12/12/2020,Dec 12,859
 Chatham County,12/19/2020,Dec 19,776
 Chatham County,12/26/2020,Dec 26,610
-Chattahoochee County,01/02/2021,Jan 02,33
+Chatham County,01/02/2021,Jan 02,619
 Chattahoochee County,03/07/2020,Mar 07,3
 Chattahoochee County,03/14/2020,Mar 14,6
 Chattahoochee County,03/21/2020,Mar 21,2
@@ -1187,7 +1186,7 @@ Chattahoochee County,12/05/2020,Dec 05,24
 Chattahoochee County,12/12/2020,Dec 12,16
 Chattahoochee County,12/19/2020,Dec 19,22
 Chattahoochee County,12/26/2020,Dec 26,12
-Chattooga County,01/02/2021,Jan 02,270
+Chattahoochee County,01/02/2021,Jan 02,33
 Chattooga County,03/07/2020,Mar 07,18
 Chattooga County,03/14/2020,Mar 14,10
 Chattooga County,03/21/2020,Mar 21,16
@@ -1231,7 +1230,7 @@ Chattooga County,12/05/2020,Dec 05,124
 Chattooga County,12/12/2020,Dec 12,150
 Chattooga County,12/19/2020,Dec 19,70
 Chattooga County,12/26/2020,Dec 26,107
-Cherokee County,01/02/2021,Jan 02,418
+Chattooga County,01/02/2021,Jan 02,270
 Cherokee County,03/07/2020,Mar 07,56
 Cherokee County,03/14/2020,Mar 14,65
 Cherokee County,03/21/2020,Mar 21,236
@@ -1275,7 +1274,7 @@ Cherokee County,12/05/2020,Dec 05,526
 Cherokee County,12/12/2020,Dec 12,400
 Cherokee County,12/19/2020,Dec 19,379
 Cherokee County,12/26/2020,Dec 26,316
-Clarke County,01/02/2021,Jan 02,331
+Cherokee County,01/02/2021,Jan 02,418
 Clarke County,03/07/2020,Mar 07,28
 Clarke County,03/14/2020,Mar 14,53
 Clarke County,03/21/2020,Mar 21,286
@@ -1319,7 +1318,7 @@ Clarke County,12/05/2020,Dec 05,347
 Clarke County,12/12/2020,Dec 12,244
 Clarke County,12/19/2020,Dec 19,273
 Clarke County,12/26/2020,Dec 26,336
-Clay County,01/02/2021,Jan 02,18
+Clarke County,01/02/2021,Jan 02,331
 Clay County,03/07/2020,Mar 07,0
 Clay County,03/14/2020,Mar 14,3
 Clay County,03/21/2020,Mar 21,5
@@ -1363,7 +1362,7 @@ Clay County,12/05/2020,Dec 05,15
 Clay County,12/12/2020,Dec 12,20
 Clay County,12/19/2020,Dec 19,19
 Clay County,12/26/2020,Dec 26,16
-Clayton County,01/02/2021,Jan 02,997
+Clay County,01/02/2021,Jan 02,18
 Clayton County,03/07/2020,Mar 07,144
 Clayton County,03/14/2020,Mar 14,181
 Clayton County,03/21/2020,Mar 21,523
@@ -1407,7 +1406,7 @@ Clayton County,12/05/2020,Dec 05,1123
 Clayton County,12/12/2020,Dec 12,963
 Clayton County,12/19/2020,Dec 19,957
 Clayton County,12/26/2020,Dec 26,668
-Clinch County,01/02/2021,Jan 02,370
+Clayton County,01/02/2021,Jan 02,997
 Clinch County,03/07/2020,Mar 07,10
 Clinch County,03/14/2020,Mar 14,14
 Clinch County,03/21/2020,Mar 21,12
@@ -1451,7 +1450,7 @@ Clinch County,12/05/2020,Dec 05,98
 Clinch County,12/12/2020,Dec 12,80
 Clinch County,12/19/2020,Dec 19,82
 Clinch County,12/26/2020,Dec 26,88
-Cobb County,01/02/2021,Jan 02,1634
+Clinch County,01/02/2021,Jan 02,370
 Cobb County,03/07/2020,Mar 07,261
 Cobb County,03/14/2020,Mar 14,286
 Cobb County,03/21/2020,Mar 21,982
@@ -1495,7 +1494,7 @@ Cobb County,12/05/2020,Dec 05,2053
 Cobb County,12/12/2020,Dec 12,1578
 Cobb County,12/19/2020,Dec 19,1553
 Cobb County,12/26/2020,Dec 26,1252
-Coffee County,01/02/2021,Jan 02,584
+Cobb County,01/02/2021,Jan 02,1634
 Coffee County,03/07/2020,Mar 07,100
 Coffee County,03/14/2020,Mar 14,106
 Coffee County,03/21/2020,Mar 21,50
@@ -1539,7 +1538,7 @@ Coffee County,12/05/2020,Dec 05,284
 Coffee County,12/12/2020,Dec 12,148
 Coffee County,12/19/2020,Dec 19,214
 Coffee County,12/26/2020,Dec 26,274
-Colquitt County,01/02/2021,Jan 02,162
+Coffee County,01/02/2021,Jan 02,584
 Colquitt County,03/07/2020,Mar 07,70
 Colquitt County,03/14/2020,Mar 14,42
 Colquitt County,03/21/2020,Mar 21,44
@@ -1583,7 +1582,7 @@ Colquitt County,12/05/2020,Dec 05,202
 Colquitt County,12/12/2020,Dec 12,142
 Colquitt County,12/19/2020,Dec 19,142
 Colquitt County,12/26/2020,Dec 26,122
-Columbia County,01/02/2021,Jan 02,230
+Colquitt County,01/02/2021,Jan 02,162
 Columbia County,03/07/2020,Mar 07,51
 Columbia County,03/14/2020,Mar 14,33
 Columbia County,03/21/2020,Mar 21,59
@@ -1627,7 +1626,7 @@ Columbia County,12/05/2020,Dec 05,296
 Columbia County,12/12/2020,Dec 12,262
 Columbia County,12/19/2020,Dec 19,257
 Columbia County,12/26/2020,Dec 26,214
-Cook County,01/02/2021,Jan 02,80
+Columbia County,01/02/2021,Jan 02,230
 Cook County,03/07/2020,Mar 07,10
 Cook County,03/14/2020,Mar 14,10
 Cook County,03/21/2020,Mar 21,12
@@ -1671,7 +1670,7 @@ Cook County,12/05/2020,Dec 05,98
 Cook County,12/12/2020,Dec 12,112
 Cook County,12/19/2020,Dec 19,92
 Cook County,12/26/2020,Dec 26,90
-Coweta County,01/02/2021,Jan 02,395
+Cook County,01/02/2021,Jan 02,80
 Coweta County,03/07/2020,Mar 07,50
 Coweta County,03/14/2020,Mar 14,55
 Coweta County,03/21/2020,Mar 21,251
@@ -1715,7 +1714,7 @@ Coweta County,12/05/2020,Dec 05,413
 Coweta County,12/12/2020,Dec 12,264
 Coweta County,12/19/2020,Dec 19,420
 Coweta County,12/26/2020,Dec 26,315
-Crawford County,01/02/2021,Jan 02,52
+Coweta County,01/02/2021,Jan 02,395
 Crawford County,03/07/2020,Mar 07,12
 Crawford County,03/14/2020,Mar 14,2
 Crawford County,03/21/2020,Mar 21,22
@@ -1759,7 +1758,7 @@ Crawford County,12/05/2020,Dec 05,64
 Crawford County,12/12/2020,Dec 12,48
 Crawford County,12/19/2020,Dec 19,68
 Crawford County,12/26/2020,Dec 26,46
-Crisp County,01/02/2021,Jan 02,118
+Crawford County,01/02/2021,Jan 02,52
 Crisp County,03/07/2020,Mar 07,24
 Crisp County,03/14/2020,Mar 14,26
 Crisp County,03/21/2020,Mar 21,15
@@ -1803,7 +1802,7 @@ Crisp County,12/05/2020,Dec 05,178
 Crisp County,12/12/2020,Dec 12,127
 Crisp County,12/19/2020,Dec 19,130
 Crisp County,12/26/2020,Dec 26,101
-Dade County,01/02/2021,Jan 02,60
+Crisp County,01/02/2021,Jan 02,118
 Dade County,03/07/2020,Mar 07,4
 Dade County,03/14/2020,Mar 14,0
 Dade County,03/21/2020,Mar 21,12
@@ -1847,7 +1846,7 @@ Dade County,12/05/2020,Dec 05,62
 Dade County,12/12/2020,Dec 12,30
 Dade County,12/19/2020,Dec 19,32
 Dade County,12/26/2020,Dec 26,20
-Dawson County,01/02/2021,Jan 02,41
+Dade County,01/02/2021,Jan 02,60
 Dawson County,03/07/2020,Mar 07,8
 Dawson County,03/14/2020,Mar 14,13
 Dawson County,03/21/2020,Mar 21,15
@@ -1891,7 +1890,7 @@ Dawson County,12/05/2020,Dec 05,44
 Dawson County,12/12/2020,Dec 12,46
 Dawson County,12/19/2020,Dec 19,42
 Dawson County,12/26/2020,Dec 26,35
-DeKalb County,01/02/2021,Jan 02,1739
+Dawson County,01/02/2021,Jan 02,41
 DeKalb County,03/07/2020,Mar 07,374
 DeKalb County,03/14/2020,Mar 14,380
 DeKalb County,03/21/2020,Mar 21,1394
@@ -1935,7 +1934,7 @@ DeKalb County,12/05/2020,Dec 05,2253
 DeKalb County,12/12/2020,Dec 12,1952
 DeKalb County,12/19/2020,Dec 19,1767
 DeKalb County,12/26/2020,Dec 26,1381
-Decatur County,01/02/2021,Jan 02,95
+DeKalb County,01/02/2021,Jan 02,1739
 Decatur County,03/07/2020,Mar 07,7
 Decatur County,03/14/2020,Mar 14,11
 Decatur County,03/21/2020,Mar 21,25
@@ -1979,7 +1978,7 @@ Decatur County,12/05/2020,Dec 05,120
 Decatur County,12/12/2020,Dec 12,50
 Decatur County,12/19/2020,Dec 19,54
 Decatur County,12/26/2020,Dec 26,24
-Dodge County,01/02/2021,Jan 02,142
+Decatur County,01/02/2021,Jan 02,95
 Dodge County,03/07/2020,Mar 07,14
 Dodge County,03/14/2020,Mar 14,30
 Dodge County,03/21/2020,Mar 21,10
@@ -2023,7 +2022,7 @@ Dodge County,12/05/2020,Dec 05,122
 Dodge County,12/12/2020,Dec 12,54
 Dodge County,12/19/2020,Dec 19,58
 Dodge County,12/26/2020,Dec 26,44
-Dooly County,01/02/2021,Jan 02,42
+Dodge County,01/02/2021,Jan 02,142
 Dooly County,03/07/2020,Mar 07,12
 Dooly County,03/14/2020,Mar 14,8
 Dooly County,03/21/2020,Mar 21,4
@@ -2067,7 +2066,7 @@ Dooly County,12/05/2020,Dec 05,54
 Dooly County,12/12/2020,Dec 12,38
 Dooly County,12/19/2020,Dec 19,56
 Dooly County,12/26/2020,Dec 26,50
-Dougherty County,01/02/2021,Jan 02,276
+Dooly County,01/02/2021,Jan 02,42
 Dougherty County,03/07/2020,Mar 07,48
 Dougherty County,03/14/2020,Mar 14,111
 Dougherty County,03/21/2020,Mar 21,67
@@ -2111,7 +2110,7 @@ Dougherty County,12/05/2020,Dec 05,355
 Dougherty County,12/12/2020,Dec 12,234
 Dougherty County,12/19/2020,Dec 19,299
 Dougherty County,12/26/2020,Dec 26,196
-Douglas County,01/02/2021,Jan 02,439
+Dougherty County,01/02/2021,Jan 02,276
 Douglas County,03/07/2020,Mar 07,66
 Douglas County,03/14/2020,Mar 14,59
 Douglas County,03/21/2020,Mar 21,140
@@ -2155,7 +2154,7 @@ Douglas County,12/05/2020,Dec 05,550
 Douglas County,12/12/2020,Dec 12,393
 Douglas County,12/19/2020,Dec 19,454
 Douglas County,12/26/2020,Dec 26,284
-Early County,01/02/2021,Jan 02,32
+Douglas County,01/02/2021,Jan 02,439
 Early County,03/07/2020,Mar 07,1
 Early County,03/14/2020,Mar 14,1
 Early County,03/21/2020,Mar 21,3
@@ -2199,7 +2198,7 @@ Early County,12/05/2020,Dec 05,39
 Early County,12/12/2020,Dec 12,24
 Early County,12/19/2020,Dec 19,26
 Early County,12/26/2020,Dec 26,21
-Echols County,01/02/2021,Jan 02,20
+Early County,01/02/2021,Jan 02,32
 Echols County,03/07/2020,Mar 07,0
 Echols County,03/14/2020,Mar 14,0
 Echols County,03/21/2020,Mar 21,2
@@ -2243,7 +2242,7 @@ Echols County,12/05/2020,Dec 05,18
 Echols County,12/12/2020,Dec 12,20
 Echols County,12/19/2020,Dec 19,18
 Echols County,12/26/2020,Dec 26,14
-Effingham County,01/02/2021,Jan 02,92
+Echols County,01/02/2021,Jan 02,20
 Effingham County,03/07/2020,Mar 07,12
 Effingham County,03/14/2020,Mar 14,18
 Effingham County,03/21/2020,Mar 21,73
@@ -2287,7 +2286,7 @@ Effingham County,12/05/2020,Dec 05,107
 Effingham County,12/12/2020,Dec 12,88
 Effingham County,12/19/2020,Dec 19,119
 Effingham County,12/26/2020,Dec 26,64
-Elbert County,01/02/2021,Jan 02,220
+Effingham County,01/02/2021,Jan 02,92
 Elbert County,03/07/2020,Mar 07,14
 Elbert County,03/14/2020,Mar 14,26
 Elbert County,03/21/2020,Mar 21,22
@@ -2331,7 +2330,7 @@ Elbert County,12/05/2020,Dec 05,184
 Elbert County,12/12/2020,Dec 12,62
 Elbert County,12/19/2020,Dec 19,54
 Elbert County,12/26/2020,Dec 26,42
-Emanuel County,01/02/2021,Jan 02,202
+Elbert County,01/02/2021,Jan 02,220
 Emanuel County,03/07/2020,Mar 07,18
 Emanuel County,03/14/2020,Mar 14,24
 Emanuel County,03/21/2020,Mar 21,27
@@ -2375,7 +2374,7 @@ Emanuel County,12/05/2020,Dec 05,102
 Emanuel County,12/12/2020,Dec 12,62
 Emanuel County,12/19/2020,Dec 19,47
 Emanuel County,12/26/2020,Dec 26,25
-Evans County,01/02/2021,Jan 02,62
+Emanuel County,01/02/2021,Jan 02,202
 Evans County,03/07/2020,Mar 07,22
 Evans County,03/14/2020,Mar 14,12
 Evans County,03/21/2020,Mar 21,10
@@ -2419,7 +2418,7 @@ Evans County,12/05/2020,Dec 05,52
 Evans County,12/12/2020,Dec 12,28
 Evans County,12/19/2020,Dec 19,40
 Evans County,12/26/2020,Dec 26,18
-Fannin County,01/02/2021,Jan 02,176
+Evans County,01/02/2021,Jan 02,62
 Fannin County,03/07/2020,Mar 07,46
 Fannin County,03/14/2020,Mar 14,36
 Fannin County,03/21/2020,Mar 21,94
@@ -2463,7 +2462,7 @@ Fannin County,12/05/2020,Dec 05,112
 Fannin County,12/12/2020,Dec 12,66
 Fannin County,12/19/2020,Dec 19,58
 Fannin County,12/26/2020,Dec 26,56
-Fayette County,01/02/2021,Jan 02,472
+Fannin County,01/02/2021,Jan 02,176
 Fayette County,03/07/2020,Mar 07,28
 Fayette County,03/14/2020,Mar 14,51
 Fayette County,03/21/2020,Mar 21,146
@@ -2507,7 +2506,7 @@ Fayette County,12/05/2020,Dec 05,382
 Fayette County,12/12/2020,Dec 12,234
 Fayette County,12/19/2020,Dec 19,322
 Fayette County,12/26/2020,Dec 26,273
-Floyd County,01/02/2021,Jan 02,497
+Fayette County,01/02/2021,Jan 02,472
 Floyd County,03/07/2020,Mar 07,62
 Floyd County,03/14/2020,Mar 14,45
 Floyd County,03/21/2020,Mar 21,100
@@ -2551,7 +2550,7 @@ Floyd County,12/05/2020,Dec 05,671
 Floyd County,12/12/2020,Dec 12,260
 Floyd County,12/19/2020,Dec 19,199
 Floyd County,12/26/2020,Dec 26,225
-Forsyth County,01/02/2021,Jan 02,274
+Floyd County,01/02/2021,Jan 02,497
 Forsyth County,03/07/2020,Mar 07,52
 Forsyth County,03/14/2020,Mar 14,51
 Forsyth County,03/21/2020,Mar 21,191
@@ -2595,7 +2594,7 @@ Forsyth County,12/05/2020,Dec 05,332
 Forsyth County,12/12/2020,Dec 12,248
 Forsyth County,12/19/2020,Dec 19,231
 Forsyth County,12/26/2020,Dec 26,204
-Franklin County,01/02/2021,Jan 02,101
+Forsyth County,01/02/2021,Jan 02,274
 Franklin County,03/07/2020,Mar 07,9
 Franklin County,03/14/2020,Mar 14,13
 Franklin County,03/21/2020,Mar 21,16
@@ -2639,7 +2638,7 @@ Franklin County,12/05/2020,Dec 05,77
 Franklin County,12/12/2020,Dec 12,51
 Franklin County,12/19/2020,Dec 19,62
 Franklin County,12/26/2020,Dec 26,56
-Fulton County,01/02/2021,Jan 02,2739
+Franklin County,01/02/2021,Jan 02,101
 Fulton County,03/07/2020,Mar 07,420
 Fulton County,03/14/2020,Mar 14,498
 Fulton County,03/21/2020,Mar 21,2201
@@ -2683,7 +2682,7 @@ Fulton County,12/05/2020,Dec 05,3472
 Fulton County,12/12/2020,Dec 12,2807
 Fulton County,12/19/2020,Dec 19,2681
 Fulton County,12/26/2020,Dec 26,1992
-Gilmer County,01/02/2021,Jan 02,75
+Fulton County,01/02/2021,Jan 02,2739
 Gilmer County,03/07/2020,Mar 07,8
 Gilmer County,03/14/2020,Mar 14,20
 Gilmer County,03/21/2020,Mar 21,39
@@ -2727,7 +2726,7 @@ Gilmer County,12/05/2020,Dec 05,73
 Gilmer County,12/12/2020,Dec 12,37
 Gilmer County,12/19/2020,Dec 19,48
 Gilmer County,12/26/2020,Dec 26,35
-Glascock County,01/02/2021,Jan 02,30
+Gilmer County,01/02/2021,Jan 02,75
 Glascock County,03/07/2020,Mar 07,4
 Glascock County,03/14/2020,Mar 14,0
 Glascock County,03/21/2020,Mar 21,2
@@ -2771,7 +2770,7 @@ Glascock County,12/05/2020,Dec 05,18
 Glascock County,12/12/2020,Dec 12,12
 Glascock County,12/19/2020,Dec 19,16
 Glascock County,12/26/2020,Dec 26,18
-Glynn County,01/02/2021,Jan 02,211
+Glascock County,01/02/2021,Jan 02,30
 Glynn County,03/07/2020,Mar 07,27
 Glynn County,03/14/2020,Mar 14,35
 Glynn County,03/21/2020,Mar 21,57
@@ -2815,7 +2814,7 @@ Glynn County,12/05/2020,Dec 05,216
 Glynn County,12/12/2020,Dec 12,185
 Glynn County,12/19/2020,Dec 19,211
 Glynn County,12/26/2020,Dec 26,185
-Gordon County,01/02/2021,Jan 02,485
+Glynn County,01/02/2021,Jan 02,211
 Gordon County,03/07/2020,Mar 07,45
 Gordon County,03/14/2020,Mar 14,53
 Gordon County,03/21/2020,Mar 21,51
@@ -2859,7 +2858,7 @@ Gordon County,12/05/2020,Dec 05,569
 Gordon County,12/12/2020,Dec 12,190
 Gordon County,12/19/2020,Dec 19,159
 Gordon County,12/26/2020,Dec 26,178
-Grady County,01/02/2021,Jan 02,31
+Gordon County,01/02/2021,Jan 02,485
 Grady County,03/07/2020,Mar 07,7
 Grady County,03/14/2020,Mar 14,3
 Grady County,03/21/2020,Mar 21,11
@@ -2903,7 +2902,7 @@ Grady County,12/05/2020,Dec 05,29
 Grady County,12/12/2020,Dec 12,27
 Grady County,12/19/2020,Dec 19,28
 Grady County,12/26/2020,Dec 26,12
-Greene County,01/02/2021,Jan 02,72
+Grady County,01/02/2021,Jan 02,31
 Greene County,03/07/2020,Mar 07,18
 Greene County,03/14/2020,Mar 14,14
 Greene County,03/21/2020,Mar 21,22
@@ -2947,7 +2946,7 @@ Greene County,12/05/2020,Dec 05,68
 Greene County,12/12/2020,Dec 12,44
 Greene County,12/19/2020,Dec 19,56
 Greene County,12/26/2020,Dec 26,46
-Gwinnett County,01/02/2021,Jan 02,1700
+Greene County,01/02/2021,Jan 02,72
 Gwinnett County,03/07/2020,Mar 07,299
 Gwinnett County,03/14/2020,Mar 14,377
 Gwinnett County,03/21/2020,Mar 21,869
@@ -2991,7 +2990,7 @@ Gwinnett County,12/05/2020,Dec 05,2083
 Gwinnett County,12/12/2020,Dec 12,1711
 Gwinnett County,12/19/2020,Dec 19,1675
 Gwinnett County,12/26/2020,Dec 26,1274
-Habersham County,01/02/2021,Jan 02,70
+Gwinnett County,01/02/2021,Jan 02,1700
 Habersham County,03/07/2020,Mar 07,17
 Habersham County,03/14/2020,Mar 14,174
 Habersham County,03/21/2020,Mar 21,42
@@ -3035,7 +3034,7 @@ Habersham County,12/05/2020,Dec 05,115
 Habersham County,12/12/2020,Dec 12,87
 Habersham County,12/19/2020,Dec 19,81
 Habersham County,12/26/2020,Dec 26,74
-Hall County,01/02/2021,Jan 02,326
+Habersham County,01/02/2021,Jan 02,70
 Hall County,03/07/2020,Mar 07,54
 Hall County,03/14/2020,Mar 14,94
 Hall County,03/21/2020,Mar 21,130
@@ -3079,7 +3078,7 @@ Hall County,12/05/2020,Dec 05,433
 Hall County,12/12/2020,Dec 12,317
 Hall County,12/19/2020,Dec 19,270
 Hall County,12/26/2020,Dec 26,233
-Hancock County,01/02/2021,Jan 02,16
+Hall County,01/02/2021,Jan 02,326
 Hancock County,03/07/2020,Mar 07,4
 Hancock County,03/14/2020,Mar 14,4
 Hancock County,03/21/2020,Mar 21,4
@@ -3123,7 +3122,7 @@ Hancock County,12/05/2020,Dec 05,18
 Hancock County,12/12/2020,Dec 12,11
 Hancock County,12/19/2020,Dec 19,7
 Hancock County,12/26/2020,Dec 26,6
-Haralson County,01/02/2021,Jan 02,59
+Hancock County,01/02/2021,Jan 02,16
 Haralson County,03/07/2020,Mar 07,3
 Haralson County,03/14/2020,Mar 14,15
 Haralson County,03/21/2020,Mar 21,21
@@ -3167,7 +3166,7 @@ Haralson County,12/05/2020,Dec 05,65
 Haralson County,12/12/2020,Dec 12,71
 Haralson County,12/19/2020,Dec 19,46
 Haralson County,12/26/2020,Dec 26,42
-Harris County,01/02/2021,Jan 02,120
+Haralson County,01/02/2021,Jan 02,59
 Harris County,03/07/2020,Mar 07,12
 Harris County,03/14/2020,Mar 14,32
 Harris County,03/21/2020,Mar 21,42
@@ -3211,7 +3210,7 @@ Harris County,12/05/2020,Dec 05,122
 Harris County,12/12/2020,Dec 12,78
 Harris County,12/19/2020,Dec 19,92
 Harris County,12/26/2020,Dec 26,70
-Hart County,01/02/2021,Jan 02,63
+Harris County,01/02/2021,Jan 02,120
 Hart County,03/07/2020,Mar 07,14
 Hart County,03/14/2020,Mar 14,14
 Hart County,03/21/2020,Mar 21,22
@@ -3255,7 +3254,7 @@ Hart County,12/05/2020,Dec 05,69
 Hart County,12/12/2020,Dec 12,24
 Hart County,12/19/2020,Dec 19,36
 Hart County,12/26/2020,Dec 26,43
-Heard County,01/02/2021,Jan 02,35
+Hart County,01/02/2021,Jan 02,63
 Heard County,03/07/2020,Mar 07,6
 Heard County,03/14/2020,Mar 14,9
 Heard County,03/21/2020,Mar 21,7
@@ -3299,7 +3298,7 @@ Heard County,12/05/2020,Dec 05,27
 Heard County,12/12/2020,Dec 12,36
 Heard County,12/19/2020,Dec 19,14
 Heard County,12/26/2020,Dec 26,28
-Henry County,01/02/2021,Jan 02,771
+Heard County,01/02/2021,Jan 02,35
 Henry County,03/07/2020,Mar 07,98
 Henry County,03/14/2020,Mar 14,122
 Henry County,03/21/2020,Mar 21,285
@@ -3343,7 +3342,7 @@ Henry County,12/05/2020,Dec 05,760
 Henry County,12/12/2020,Dec 12,602
 Henry County,12/19/2020,Dec 19,746
 Henry County,12/26/2020,Dec 26,443
-Houston County,01/02/2021,Jan 02,306
+Henry County,01/02/2021,Jan 02,771
 Houston County,03/07/2020,Mar 07,50
 Houston County,03/14/2020,Mar 14,39
 Houston County,03/21/2020,Mar 21,121
@@ -3387,7 +3386,7 @@ Houston County,12/05/2020,Dec 05,326
 Houston County,12/12/2020,Dec 12,297
 Houston County,12/19/2020,Dec 19,293
 Houston County,12/26/2020,Dec 26,225
-Irwin County,01/02/2021,Jan 02,56
+Houston County,01/02/2021,Jan 02,306
 Irwin County,03/07/2020,Mar 07,5
 Irwin County,03/14/2020,Mar 14,2
 Irwin County,03/21/2020,Mar 21,3
@@ -3431,7 +3430,7 @@ Irwin County,12/05/2020,Dec 05,16
 Irwin County,12/12/2020,Dec 12,18
 Irwin County,12/19/2020,Dec 19,11
 Irwin County,12/26/2020,Dec 26,15
-Jackson County,01/02/2021,Jan 02,224
+Irwin County,01/02/2021,Jan 02,56
 Jackson County,03/07/2020,Mar 07,46
 Jackson County,03/14/2020,Mar 14,78
 Jackson County,03/21/2020,Mar 21,110
@@ -3475,7 +3474,7 @@ Jackson County,12/05/2020,Dec 05,222
 Jackson County,12/12/2020,Dec 12,258
 Jackson County,12/19/2020,Dec 19,184
 Jackson County,12/26/2020,Dec 26,180
-Jasper County,01/02/2021,Jan 02,27
+Jackson County,01/02/2021,Jan 02,224
 Jasper County,03/07/2020,Mar 07,4
 Jasper County,03/14/2020,Mar 14,9
 Jasper County,03/21/2020,Mar 21,18
@@ -3519,7 +3518,7 @@ Jasper County,12/05/2020,Dec 05,29
 Jasper County,12/12/2020,Dec 12,23
 Jasper County,12/19/2020,Dec 19,38
 Jasper County,12/26/2020,Dec 26,10
-Jeff Davis County,01/02/2021,Jan 02,48
+Jasper County,01/02/2021,Jan 02,27
 Jeff Davis County,03/07/2020,Mar 07,12
 Jeff Davis County,03/14/2020,Mar 14,6
 Jeff Davis County,03/21/2020,Mar 21,4
@@ -3563,7 +3562,7 @@ Jeff Davis County,12/05/2020,Dec 05,23
 Jeff Davis County,12/12/2020,Dec 12,19
 Jeff Davis County,12/19/2020,Dec 19,15
 Jeff Davis County,12/26/2020,Dec 26,13
-Jefferson County,01/02/2021,Jan 02,62
+Jeff Davis County,01/02/2021,Jan 02,48
 Jefferson County,03/07/2020,Mar 07,16
 Jefferson County,03/14/2020,Mar 14,14
 Jefferson County,03/21/2020,Mar 21,9
@@ -3607,7 +3606,7 @@ Jefferson County,12/05/2020,Dec 05,40
 Jefferson County,12/12/2020,Dec 12,37
 Jefferson County,12/19/2020,Dec 19,35
 Jefferson County,12/26/2020,Dec 26,42
-Jenkins County,01/02/2021,Jan 02,20
+Jefferson County,01/02/2021,Jan 02,62
 Jenkins County,03/07/2020,Mar 07,6
 Jenkins County,03/14/2020,Mar 14,9
 Jenkins County,03/21/2020,Mar 21,5
@@ -3651,7 +3650,7 @@ Jenkins County,12/05/2020,Dec 05,46
 Jenkins County,12/12/2020,Dec 12,15
 Jenkins County,12/19/2020,Dec 19,10
 Jenkins County,12/26/2020,Dec 26,11
-Johnson County,01/02/2021,Jan 02,74
+Jenkins County,01/02/2021,Jan 02,20
 Johnson County,03/07/2020,Mar 07,14
 Johnson County,03/14/2020,Mar 14,20
 Johnson County,03/21/2020,Mar 21,8
@@ -3695,7 +3694,7 @@ Johnson County,12/05/2020,Dec 05,22
 Johnson County,12/12/2020,Dec 12,30
 Johnson County,12/19/2020,Dec 19,30
 Johnson County,12/26/2020,Dec 26,16
-Jones County,01/02/2021,Jan 02,86
+Johnson County,01/02/2021,Jan 02,74
 Jones County,03/07/2020,Mar 07,8
 Jones County,03/14/2020,Mar 14,20
 Jones County,03/21/2020,Mar 21,24
@@ -3739,7 +3738,7 @@ Jones County,12/05/2020,Dec 05,206
 Jones County,12/12/2020,Dec 12,82
 Jones County,12/19/2020,Dec 19,108
 Jones County,12/26/2020,Dec 26,74
-Lamar County,01/02/2021,Jan 02,65
+Jones County,01/02/2021,Jan 02,86
 Lamar County,03/07/2020,Mar 07,10
 Lamar County,03/14/2020,Mar 14,15
 Lamar County,03/21/2020,Mar 21,19
@@ -3783,7 +3782,7 @@ Lamar County,12/05/2020,Dec 05,51
 Lamar County,12/12/2020,Dec 12,56
 Lamar County,12/19/2020,Dec 19,47
 Lamar County,12/26/2020,Dec 26,22
-Lanier County,01/02/2021,Jan 02,22
+Lamar County,01/02/2021,Jan 02,65
 Lanier County,03/07/2020,Mar 07,2
 Lanier County,03/14/2020,Mar 14,6
 Lanier County,03/21/2020,Mar 21,10
@@ -3827,7 +3826,7 @@ Lanier County,12/05/2020,Dec 05,36
 Lanier County,12/12/2020,Dec 12,28
 Lanier County,12/19/2020,Dec 19,24
 Lanier County,12/26/2020,Dec 26,16
-Laurens County,01/02/2021,Jan 02,396
+Lanier County,01/02/2021,Jan 02,22
 Laurens County,03/07/2020,Mar 07,58
 Laurens County,03/14/2020,Mar 14,122
 Laurens County,03/21/2020,Mar 21,38
@@ -3871,7 +3870,7 @@ Laurens County,12/05/2020,Dec 05,414
 Laurens County,12/12/2020,Dec 12,186
 Laurens County,12/19/2020,Dec 19,212
 Laurens County,12/26/2020,Dec 26,130
-Lee County,01/02/2021,Jan 02,74
+Laurens County,01/02/2021,Jan 02,396
 Lee County,03/07/2020,Mar 07,13
 Lee County,03/14/2020,Mar 14,17
 Lee County,03/21/2020,Mar 21,24
@@ -3915,7 +3914,7 @@ Lee County,12/05/2020,Dec 05,67
 Lee County,12/12/2020,Dec 12,67
 Lee County,12/19/2020,Dec 19,60
 Lee County,12/26/2020,Dec 26,54
-Liberty County,01/02/2021,Jan 02,132
+Lee County,01/02/2021,Jan 02,74
 Liberty County,03/07/2020,Mar 07,25
 Liberty County,03/14/2020,Mar 14,26
 Liberty County,03/21/2020,Mar 21,36
@@ -3959,7 +3958,7 @@ Liberty County,12/05/2020,Dec 05,109
 Liberty County,12/12/2020,Dec 12,94
 Liberty County,12/19/2020,Dec 19,134
 Liberty County,12/26/2020,Dec 26,85
-Lincoln County,01/02/2021,Jan 02,15
+Liberty County,01/02/2021,Jan 02,132
 Lincoln County,03/07/2020,Mar 07,8
 Lincoln County,03/14/2020,Mar 14,1
 Lincoln County,03/21/2020,Mar 21,9
@@ -4003,7 +4002,7 @@ Lincoln County,12/05/2020,Dec 05,26
 Lincoln County,12/12/2020,Dec 12,15
 Lincoln County,12/19/2020,Dec 19,15
 Lincoln County,12/26/2020,Dec 26,8
-Long County,01/02/2021,Jan 02,42
+Lincoln County,01/02/2021,Jan 02,15
 Long County,03/07/2020,Mar 07,8
 Long County,03/14/2020,Mar 14,22
 Long County,03/21/2020,Mar 21,10
@@ -4047,7 +4046,7 @@ Long County,12/05/2020,Dec 05,66
 Long County,12/12/2020,Dec 12,54
 Long County,12/19/2020,Dec 19,58
 Long County,12/26/2020,Dec 26,34
-Lowndes County,01/02/2021,Jan 02,502
+Long County,01/02/2021,Jan 02,42
 Lowndes County,03/07/2020,Mar 07,76
 Lowndes County,03/14/2020,Mar 14,68
 Lowndes County,03/21/2020,Mar 21,96
@@ -4091,7 +4090,7 @@ Lowndes County,12/05/2020,Dec 05,606
 Lowndes County,12/12/2020,Dec 12,750
 Lowndes County,12/19/2020,Dec 19,520
 Lowndes County,12/26/2020,Dec 26,572
-Lumpkin County,01/02/2021,Jan 02,118
+Lowndes County,01/02/2021,Jan 02,502
 Lumpkin County,03/07/2020,Mar 07,18
 Lumpkin County,03/14/2020,Mar 14,12
 Lumpkin County,03/21/2020,Mar 21,46
@@ -4135,7 +4134,7 @@ Lumpkin County,12/05/2020,Dec 05,100
 Lumpkin County,12/12/2020,Dec 12,154
 Lumpkin County,12/19/2020,Dec 19,180
 Lumpkin County,12/26/2020,Dec 26,154
-Macon County,01/02/2021,Jan 02,36
+Lumpkin County,01/02/2021,Jan 02,118
 Macon County,03/07/2020,Mar 07,13
 Macon County,03/14/2020,Mar 14,8
 Macon County,03/21/2020,Mar 21,4
@@ -4179,7 +4178,7 @@ Macon County,12/05/2020,Dec 05,52
 Macon County,12/12/2020,Dec 12,42
 Macon County,12/19/2020,Dec 19,49
 Macon County,12/26/2020,Dec 26,26
-Madison County,01/02/2021,Jan 02,98
+Macon County,01/02/2021,Jan 02,36
 Madison County,03/07/2020,Mar 07,8
 Madison County,03/14/2020,Mar 14,18
 Madison County,03/21/2020,Mar 21,36
@@ -4223,7 +4222,7 @@ Madison County,12/05/2020,Dec 05,120
 Madison County,12/12/2020,Dec 12,59
 Madison County,12/19/2020,Dec 19,71
 Madison County,12/26/2020,Dec 26,50
-Marion County,01/02/2021,Jan 02,60
+Madison County,01/02/2021,Jan 02,98
 Marion County,03/07/2020,Mar 07,4
 Marion County,03/14/2020,Mar 14,6
 Marion County,03/21/2020,Mar 21,4
@@ -4267,7 +4266,7 @@ Marion County,12/05/2020,Dec 05,40
 Marion County,12/12/2020,Dec 12,34
 Marion County,12/19/2020,Dec 19,44
 Marion County,12/26/2020,Dec 26,38
-McDuffie County,01/02/2021,Jan 02,79
+Marion County,01/02/2021,Jan 02,60
 McDuffie County,03/07/2020,Mar 07,12
 McDuffie County,03/14/2020,Mar 14,24
 McDuffie County,03/21/2020,Mar 21,6
@@ -4311,7 +4310,7 @@ McDuffie County,12/05/2020,Dec 05,110
 McDuffie County,12/12/2020,Dec 12,75
 McDuffie County,12/19/2020,Dec 19,67
 McDuffie County,12/26/2020,Dec 26,65
-McIntosh County,01/02/2021,Jan 02,56
+McDuffie County,01/02/2021,Jan 02,79
 McIntosh County,03/07/2020,Mar 07,8
 McIntosh County,03/14/2020,Mar 14,14
 McIntosh County,03/21/2020,Mar 21,8
@@ -4355,7 +4354,7 @@ McIntosh County,12/05/2020,Dec 05,48
 McIntosh County,12/12/2020,Dec 12,36
 McIntosh County,12/19/2020,Dec 19,58
 McIntosh County,12/26/2020,Dec 26,32
-Meriwether County,01/02/2021,Jan 02,156
+McIntosh County,01/02/2021,Jan 02,56
 Meriwether County,03/07/2020,Mar 07,22
 Meriwether County,03/14/2020,Mar 14,34
 Meriwether County,03/21/2020,Mar 21,26
@@ -4399,7 +4398,7 @@ Meriwether County,12/05/2020,Dec 05,168
 Meriwether County,12/12/2020,Dec 12,72
 Meriwether County,12/19/2020,Dec 19,70
 Meriwether County,12/26/2020,Dec 26,110
-Miller County,01/02/2021,Jan 02,30
+Meriwether County,01/02/2021,Jan 02,156
 Miller County,03/07/2020,Mar 07,2
 Miller County,03/14/2020,Mar 14,5
 Miller County,03/21/2020,Mar 21,2
@@ -4443,7 +4442,7 @@ Miller County,12/05/2020,Dec 05,28
 Miller County,12/12/2020,Dec 12,4
 Miller County,12/19/2020,Dec 19,9
 Miller County,12/26/2020,Dec 26,7
-Mitchell County,01/02/2021,Jan 02,28
+Miller County,01/02/2021,Jan 02,30
 Mitchell County,03/07/2020,Mar 07,6
 Mitchell County,03/14/2020,Mar 14,7
 Mitchell County,03/21/2020,Mar 21,7
@@ -4487,7 +4486,7 @@ Mitchell County,12/05/2020,Dec 05,44
 Mitchell County,12/12/2020,Dec 12,32
 Mitchell County,12/19/2020,Dec 19,31
 Mitchell County,12/26/2020,Dec 26,13
-Monroe County,01/02/2021,Jan 02,56
+Mitchell County,01/02/2021,Jan 02,28
 Monroe County,03/07/2020,Mar 07,6
 Monroe County,03/14/2020,Mar 14,12
 Monroe County,03/21/2020,Mar 21,18
@@ -4531,7 +4530,7 @@ Monroe County,12/05/2020,Dec 05,46
 Monroe County,12/12/2020,Dec 12,37
 Monroe County,12/19/2020,Dec 19,40
 Monroe County,12/26/2020,Dec 26,28
-Montgomery County,01/02/2021,Jan 02,236
+Monroe County,01/02/2021,Jan 02,56
 Montgomery County,03/07/2020,Mar 07,14
 Montgomery County,03/14/2020,Mar 14,18
 Montgomery County,03/21/2020,Mar 21,10
@@ -4575,7 +4574,7 @@ Montgomery County,12/05/2020,Dec 05,70
 Montgomery County,12/12/2020,Dec 12,62
 Montgomery County,12/19/2020,Dec 19,54
 Montgomery County,12/26/2020,Dec 26,32
-Morgan County,01/02/2021,Jan 02,22
+Montgomery County,01/02/2021,Jan 02,236
 Morgan County,03/07/2020,Mar 07,10
 Morgan County,03/14/2020,Mar 14,5
 Morgan County,03/21/2020,Mar 21,52
@@ -4619,7 +4618,7 @@ Morgan County,12/05/2020,Dec 05,22
 Morgan County,12/12/2020,Dec 12,32
 Morgan County,12/19/2020,Dec 19,26
 Morgan County,12/26/2020,Dec 26,20
-Murray County,01/02/2021,Jan 02,920
+Morgan County,01/02/2021,Jan 02,22
 Murray County,03/07/2020,Mar 07,80
 Murray County,03/14/2020,Mar 14,64
 Murray County,03/21/2020,Mar 21,42
@@ -4663,7 +4662,7 @@ Murray County,12/05/2020,Dec 05,880
 Murray County,12/12/2020,Dec 12,262
 Murray County,12/19/2020,Dec 19,298
 Murray County,12/26/2020,Dec 26,314
-Muscogee County,01/02/2021,Jan 02,1277
+Murray County,01/02/2021,Jan 02,920
 Muscogee County,03/07/2020,Mar 07,72
 Muscogee County,03/14/2020,Mar 14,106
 Muscogee County,03/21/2020,Mar 21,106
@@ -4707,7 +4706,7 @@ Muscogee County,12/05/2020,Dec 05,719
 Muscogee County,12/12/2020,Dec 12,444
 Muscogee County,12/19/2020,Dec 19,516
 Muscogee County,12/26/2020,Dec 26,517
-Newton County,01/02/2021,Jan 02,246
+Muscogee County,01/02/2021,Jan 02,1277
 Newton County,03/07/2020,Mar 07,54
 Newton County,03/14/2020,Mar 14,74
 Newton County,03/21/2020,Mar 21,134
@@ -4751,7 +4750,7 @@ Newton County,12/05/2020,Dec 05,296
 Newton County,12/12/2020,Dec 12,261
 Newton County,12/19/2020,Dec 19,233
 Newton County,12/26/2020,Dec 26,154
-Oconee County,01/02/2021,Jan 02,67
+Newton County,01/02/2021,Jan 02,246
 Oconee County,03/07/2020,Mar 07,6
 Oconee County,03/14/2020,Mar 14,5
 Oconee County,03/21/2020,Mar 21,42
@@ -4795,7 +4794,7 @@ Oconee County,12/05/2020,Dec 05,51
 Oconee County,12/12/2020,Dec 12,39
 Oconee County,12/19/2020,Dec 19,35
 Oconee County,12/26/2020,Dec 26,46
-Oglethorpe County,01/02/2021,Jan 02,15
+Oconee County,01/02/2021,Jan 02,67
 Oglethorpe County,03/07/2020,Mar 07,4
 Oglethorpe County,03/14/2020,Mar 14,6
 Oglethorpe County,03/21/2020,Mar 21,16
@@ -4839,7 +4838,7 @@ Oglethorpe County,12/05/2020,Dec 05,25
 Oglethorpe County,12/12/2020,Dec 12,9
 Oglethorpe County,12/19/2020,Dec 19,25
 Oglethorpe County,12/26/2020,Dec 26,12
-Paulding County,01/02/2021,Jan 02,298
+Oglethorpe County,01/02/2021,Jan 02,15
 Paulding County,03/07/2020,Mar 07,43
 Paulding County,03/14/2020,Mar 14,52
 Paulding County,03/21/2020,Mar 21,164
@@ -4883,7 +4882,7 @@ Paulding County,12/05/2020,Dec 05,376
 Paulding County,12/12/2020,Dec 12,248
 Paulding County,12/19/2020,Dec 19,224
 Paulding County,12/26/2020,Dec 26,186
-Peach County,01/02/2021,Jan 02,63
+Paulding County,01/02/2021,Jan 02,298
 Peach County,03/07/2020,Mar 07,11
 Peach County,03/14/2020,Mar 14,10
 Peach County,03/21/2020,Mar 21,18
@@ -4927,7 +4926,7 @@ Peach County,12/05/2020,Dec 05,108
 Peach County,12/12/2020,Dec 12,99
 Peach County,12/19/2020,Dec 19,115
 Peach County,12/26/2020,Dec 26,79
-Pickens County,01/02/2021,Jan 02,176
+Peach County,01/02/2021,Jan 02,63
 Pickens County,03/07/2020,Mar 07,38
 Pickens County,03/14/2020,Mar 14,36
 Pickens County,03/21/2020,Mar 21,94
@@ -4971,7 +4970,7 @@ Pickens County,12/05/2020,Dec 05,102
 Pickens County,12/12/2020,Dec 12,62
 Pickens County,12/19/2020,Dec 19,58
 Pickens County,12/26/2020,Dec 26,70
-Pierce County,01/02/2021,Jan 02,36
+Pickens County,01/02/2021,Jan 02,176
 Pierce County,03/07/2020,Mar 07,4
 Pierce County,03/14/2020,Mar 14,11
 Pierce County,03/21/2020,Mar 21,6
@@ -5015,7 +5014,7 @@ Pierce County,12/05/2020,Dec 05,36
 Pierce County,12/12/2020,Dec 12,23
 Pierce County,12/19/2020,Dec 19,37
 Pierce County,12/26/2020,Dec 26,20
-Pike County,01/02/2021,Jan 02,114
+Pierce County,01/02/2021,Jan 02,36
 Pike County,03/07/2020,Mar 07,4
 Pike County,03/14/2020,Mar 14,20
 Pike County,03/21/2020,Mar 21,42
@@ -5059,7 +5058,7 @@ Pike County,12/05/2020,Dec 05,128
 Pike County,12/12/2020,Dec 12,58
 Pike County,12/19/2020,Dec 19,74
 Pike County,12/26/2020,Dec 26,62
-Polk County,01/02/2021,Jan 02,203
+Pike County,01/02/2021,Jan 02,114
 Polk County,03/07/2020,Mar 07,28
 Polk County,03/14/2020,Mar 14,62
 Polk County,03/21/2020,Mar 21,73
@@ -5103,7 +5102,7 @@ Polk County,12/05/2020,Dec 05,257
 Polk County,12/12/2020,Dec 12,86
 Polk County,12/19/2020,Dec 19,82
 Polk County,12/26/2020,Dec 26,94
-Pulaski County,01/02/2021,Jan 02,30
+Polk County,01/02/2021,Jan 02,203
 Pulaski County,03/07/2020,Mar 07,6
 Pulaski County,03/14/2020,Mar 14,10
 Pulaski County,03/21/2020,Mar 21,4
@@ -5147,7 +5146,7 @@ Pulaski County,12/05/2020,Dec 05,26
 Pulaski County,12/12/2020,Dec 12,26
 Pulaski County,12/19/2020,Dec 19,34
 Pulaski County,12/26/2020,Dec 26,36
-Putnam County,01/02/2021,Jan 02,38
+Pulaski County,01/02/2021,Jan 02,30
 Putnam County,03/07/2020,Mar 07,9
 Putnam County,03/14/2020,Mar 14,2
 Putnam County,03/21/2020,Mar 21,13
@@ -5191,7 +5190,7 @@ Putnam County,12/05/2020,Dec 05,33
 Putnam County,12/12/2020,Dec 12,40
 Putnam County,12/19/2020,Dec 19,32
 Putnam County,12/26/2020,Dec 26,22
-Quitman County,01/02/2021,Jan 02,1
+Putnam County,01/02/2021,Jan 02,38
 Quitman County,03/07/2020,Mar 07,0
 Quitman County,03/14/2020,Mar 14,1
 Quitman County,03/21/2020,Mar 21,0
@@ -5235,7 +5234,7 @@ Quitman County,12/05/2020,Dec 05,1
 Quitman County,12/12/2020,Dec 12,1
 Quitman County,12/19/2020,Dec 19,1
 Quitman County,12/26/2020,Dec 26,0
-Rabun County,01/02/2021,Jan 02,48
+Quitman County,01/02/2021,Jan 02,1
 Rabun County,03/07/2020,Mar 07,10
 Rabun County,03/14/2020,Mar 14,12
 Rabun County,03/21/2020,Mar 21,20
@@ -5279,7 +5278,7 @@ Rabun County,12/05/2020,Dec 05,42
 Rabun County,12/12/2020,Dec 12,40
 Rabun County,12/19/2020,Dec 19,34
 Rabun County,12/26/2020,Dec 26,20
-Randolph County,01/02/2021,Jan 02,32
+Rabun County,01/02/2021,Jan 02,48
 Randolph County,03/07/2020,Mar 07,0
 Randolph County,03/14/2020,Mar 14,10
 Randolph County,03/21/2020,Mar 21,4
@@ -5323,7 +5322,7 @@ Randolph County,12/05/2020,Dec 05,38
 Randolph County,12/12/2020,Dec 12,26
 Randolph County,12/19/2020,Dec 19,28
 Randolph County,12/26/2020,Dec 26,28
-Richmond County,01/02/2021,Jan 02,576
+Randolph County,01/02/2021,Jan 02,32
 Richmond County,03/07/2020,Mar 07,128
 Richmond County,03/14/2020,Mar 14,88
 Richmond County,03/21/2020,Mar 21,141
@@ -5367,7 +5366,7 @@ Richmond County,12/05/2020,Dec 05,535
 Richmond County,12/12/2020,Dec 12,549
 Richmond County,12/19/2020,Dec 19,455
 Richmond County,12/26/2020,Dec 26,466
-Rockdale County,01/02/2021,Jan 02,213
+Richmond County,01/02/2021,Jan 02,576
 Rockdale County,03/07/2020,Mar 07,57
 Rockdale County,03/14/2020,Mar 14,68
 Rockdale County,03/21/2020,Mar 21,125
@@ -5411,7 +5410,7 @@ Rockdale County,12/05/2020,Dec 05,284
 Rockdale County,12/12/2020,Dec 12,221
 Rockdale County,12/19/2020,Dec 19,220
 Rockdale County,12/26/2020,Dec 26,167
-Schley County,01/02/2021,Jan 02,14
+Rockdale County,01/02/2021,Jan 02,213
 Schley County,03/07/2020,Mar 07,1
 Schley County,03/14/2020,Mar 14,2
 Schley County,03/21/2020,Mar 21,1
@@ -5455,7 +5454,7 @@ Schley County,12/05/2020,Dec 05,11
 Schley County,12/12/2020,Dec 12,10
 Schley County,12/19/2020,Dec 19,0
 Schley County,12/26/2020,Dec 26,4
-Screven County,01/02/2021,Jan 02,88
+Schley County,01/02/2021,Jan 02,14
 Screven County,03/07/2020,Mar 07,22
 Screven County,03/14/2020,Mar 14,10
 Screven County,03/21/2020,Mar 21,32
@@ -5499,7 +5498,7 @@ Screven County,12/05/2020,Dec 05,428
 Screven County,12/12/2020,Dec 12,58
 Screven County,12/19/2020,Dec 19,52
 Screven County,12/26/2020,Dec 26,38
-Seminole County,01/02/2021,Jan 02,24
+Screven County,01/02/2021,Jan 02,88
 Seminole County,03/07/2020,Mar 07,1
 Seminole County,03/14/2020,Mar 14,2
 Seminole County,03/21/2020,Mar 21,2
@@ -5543,7 +5542,7 @@ Seminole County,12/05/2020,Dec 05,31
 Seminole County,12/12/2020,Dec 12,11
 Seminole County,12/19/2020,Dec 19,12
 Seminole County,12/26/2020,Dec 26,5
-Spalding County,01/02/2021,Jan 02,264
+Seminole County,01/02/2021,Jan 02,24
 Spalding County,03/07/2020,Mar 07,47
 Spalding County,03/14/2020,Mar 14,73
 Spalding County,03/21/2020,Mar 21,59
@@ -5587,7 +5586,7 @@ Spalding County,12/05/2020,Dec 05,217
 Spalding County,12/12/2020,Dec 12,165
 Spalding County,12/19/2020,Dec 19,191
 Spalding County,12/26/2020,Dec 26,124
-Stephens County,01/02/2021,Jan 02,70
+Spalding County,01/02/2021,Jan 02,264
 Stephens County,03/07/2020,Mar 07,10
 Stephens County,03/14/2020,Mar 14,20
 Stephens County,03/21/2020,Mar 21,11
@@ -5631,7 +5630,7 @@ Stephens County,12/05/2020,Dec 05,72
 Stephens County,12/12/2020,Dec 12,31
 Stephens County,12/19/2020,Dec 19,53
 Stephens County,12/26/2020,Dec 26,55
-Stewart County,01/02/2021,Jan 02,18
+Stephens County,01/02/2021,Jan 02,70
 Stewart County,03/07/2020,Mar 07,5
 Stewart County,03/14/2020,Mar 14,14
 Stewart County,03/21/2020,Mar 21,1
@@ -5675,7 +5674,7 @@ Stewart County,12/05/2020,Dec 05,9
 Stewart County,12/12/2020,Dec 12,8
 Stewart County,12/19/2020,Dec 19,3
 Stewart County,12/26/2020,Dec 26,10
-Sumter County,01/02/2021,Jan 02,78
+Stewart County,01/02/2021,Jan 02,18
 Sumter County,03/07/2020,Mar 07,13
 Sumter County,03/14/2020,Mar 14,39
 Sumter County,03/21/2020,Mar 21,16
@@ -5719,7 +5718,7 @@ Sumter County,12/05/2020,Dec 05,102
 Sumter County,12/12/2020,Dec 12,89
 Sumter County,12/19/2020,Dec 19,67
 Sumter County,12/26/2020,Dec 26,75
-Talbot County,01/02/2021,Jan 02,20
+Sumter County,01/02/2021,Jan 02,78
 Talbot County,03/07/2020,Mar 07,1
 Talbot County,03/14/2020,Mar 14,1
 Talbot County,03/21/2020,Mar 21,4
@@ -5763,7 +5762,7 @@ Talbot County,12/05/2020,Dec 05,16
 Talbot County,12/12/2020,Dec 12,14
 Talbot County,12/19/2020,Dec 19,5
 Talbot County,12/26/2020,Dec 26,8
-Taliaferro County,01/02/2021,Jan 02,2
+Talbot County,01/02/2021,Jan 02,20
 Taliaferro County,03/07/2020,Mar 07,1
 Taliaferro County,03/14/2020,Mar 14,0
 Taliaferro County,03/21/2020,Mar 21,1
@@ -5807,7 +5806,7 @@ Taliaferro County,12/05/2020,Dec 05,2
 Taliaferro County,12/12/2020,Dec 12,1
 Taliaferro County,12/19/2020,Dec 19,3
 Taliaferro County,12/26/2020,Dec 26,2
-Tattnall County,01/02/2021,Jan 02,140
+Taliaferro County,01/02/2021,Jan 02,2
 Tattnall County,03/07/2020,Mar 07,16
 Tattnall County,03/14/2020,Mar 14,30
 Tattnall County,03/21/2020,Mar 21,8
@@ -5851,7 +5850,7 @@ Tattnall County,12/05/2020,Dec 05,68
 Tattnall County,12/12/2020,Dec 12,42
 Tattnall County,12/19/2020,Dec 19,52
 Tattnall County,12/26/2020,Dec 26,30
-Taylor County,01/02/2021,Jan 02,36
+Tattnall County,01/02/2021,Jan 02,140
 Taylor County,03/07/2020,Mar 07,6
 Taylor County,03/14/2020,Mar 14,12
 Taylor County,03/21/2020,Mar 21,4
@@ -5895,7 +5894,7 @@ Taylor County,12/05/2020,Dec 05,50
 Taylor County,12/12/2020,Dec 12,40
 Taylor County,12/19/2020,Dec 19,74
 Taylor County,12/26/2020,Dec 26,54
-Telfair County,01/02/2021,Jan 02,74
+Taylor County,01/02/2021,Jan 02,36
 Telfair County,03/07/2020,Mar 07,5
 Telfair County,03/14/2020,Mar 14,6
 Telfair County,03/21/2020,Mar 21,7
@@ -5939,7 +5938,7 @@ Telfair County,12/05/2020,Dec 05,28
 Telfair County,12/12/2020,Dec 12,12
 Telfair County,12/19/2020,Dec 19,27
 Telfair County,12/26/2020,Dec 26,10
-Terrell County,01/02/2021,Jan 02,45
+Telfair County,01/02/2021,Jan 02,74
 Terrell County,03/07/2020,Mar 07,4
 Terrell County,03/14/2020,Mar 14,15
 Terrell County,03/21/2020,Mar 21,4
@@ -5983,7 +5982,7 @@ Terrell County,12/05/2020,Dec 05,22
 Terrell County,12/12/2020,Dec 12,18
 Terrell County,12/19/2020,Dec 19,14
 Terrell County,12/26/2020,Dec 26,9
-Thomas County,01/02/2021,Jan 02,85
+Terrell County,01/02/2021,Jan 02,45
 Thomas County,03/07/2020,Mar 07,13
 Thomas County,03/14/2020,Mar 14,13
 Thomas County,03/21/2020,Mar 21,19
@@ -6027,7 +6026,7 @@ Thomas County,12/05/2020,Dec 05,94
 Thomas County,12/12/2020,Dec 12,94
 Thomas County,12/19/2020,Dec 19,82
 Thomas County,12/26/2020,Dec 26,60
-Tift County,01/02/2021,Jan 02,83
+Thomas County,01/02/2021,Jan 02,85
 Tift County,03/07/2020,Mar 07,16
 Tift County,03/14/2020,Mar 14,19
 Tift County,03/21/2020,Mar 21,12
@@ -6071,7 +6070,7 @@ Tift County,12/05/2020,Dec 05,94
 Tift County,12/12/2020,Dec 12,116
 Tift County,12/19/2020,Dec 19,77
 Tift County,12/26/2020,Dec 26,89
-Toombs County,01/02/2021,Jan 02,814
+Tift County,01/02/2021,Jan 02,83
 Toombs County,03/07/2020,Mar 07,32
 Toombs County,03/14/2020,Mar 14,30
 Toombs County,03/21/2020,Mar 21,38
@@ -6115,7 +6114,7 @@ Toombs County,12/05/2020,Dec 05,118
 Toombs County,12/12/2020,Dec 12,82
 Toombs County,12/19/2020,Dec 19,80
 Toombs County,12/26/2020,Dec 26,56
-Towns County,01/02/2021,Jan 02,15
+Toombs County,01/02/2021,Jan 02,814
 Towns County,03/07/2020,Mar 07,5
 Towns County,03/14/2020,Mar 14,3
 Towns County,03/21/2020,Mar 21,16
@@ -6159,7 +6158,7 @@ Towns County,12/05/2020,Dec 05,15
 Towns County,12/12/2020,Dec 12,41
 Towns County,12/19/2020,Dec 19,23
 Towns County,12/26/2020,Dec 26,12
-Treutlen County,01/02/2021,Jan 02,93
+Towns County,01/02/2021,Jan 02,15
 Treutlen County,03/07/2020,Mar 07,1
 Treutlen County,03/14/2020,Mar 14,5
 Treutlen County,03/21/2020,Mar 21,1
@@ -6203,7 +6202,7 @@ Treutlen County,12/05/2020,Dec 05,15
 Treutlen County,12/12/2020,Dec 12,13
 Treutlen County,12/19/2020,Dec 19,11
 Treutlen County,12/26/2020,Dec 26,7
-Troup County,01/02/2021,Jan 02,267
+Treutlen County,01/02/2021,Jan 02,93
 Troup County,03/07/2020,Mar 07,37
 Troup County,03/14/2020,Mar 14,34
 Troup County,03/21/2020,Mar 21,46
@@ -6247,7 +6246,7 @@ Troup County,12/05/2020,Dec 05,332
 Troup County,12/12/2020,Dec 12,170
 Troup County,12/19/2020,Dec 19,156
 Troup County,12/26/2020,Dec 26,142
-Turner County,01/02/2021,Jan 02,18
+Troup County,01/02/2021,Jan 02,267
 Turner County,03/07/2020,Mar 07,2
 Turner County,03/14/2020,Mar 14,4
 Turner County,03/21/2020,Mar 21,6
@@ -6291,7 +6290,7 @@ Turner County,12/05/2020,Dec 05,25
 Turner County,12/12/2020,Dec 12,11
 Turner County,12/19/2020,Dec 19,32
 Turner County,12/26/2020,Dec 26,9
-Twiggs County,01/02/2021,Jan 02,18
+Turner County,01/02/2021,Jan 02,18
 Twiggs County,03/07/2020,Mar 07,6
 Twiggs County,03/14/2020,Mar 14,16
 Twiggs County,03/21/2020,Mar 21,12
@@ -6335,7 +6334,7 @@ Twiggs County,12/05/2020,Dec 05,14
 Twiggs County,12/12/2020,Dec 12,22
 Twiggs County,12/19/2020,Dec 19,22
 Twiggs County,12/26/2020,Dec 26,16
-Union County,01/02/2021,Jan 02,120
+Twiggs County,01/02/2021,Jan 02,18
 Union County,03/07/2020,Mar 07,22
 Union County,03/14/2020,Mar 14,28
 Union County,03/21/2020,Mar 21,24
@@ -6379,7 +6378,7 @@ Union County,12/05/2020,Dec 05,96
 Union County,12/12/2020,Dec 12,114
 Union County,12/19/2020,Dec 19,84
 Union County,12/26/2020,Dec 26,58
-Upson County,01/02/2021,Jan 02,130
+Union County,01/02/2021,Jan 02,120
 Upson County,03/07/2020,Mar 07,14
 Upson County,03/14/2020,Mar 14,16
 Upson County,03/21/2020,Mar 21,15
@@ -6423,7 +6422,7 @@ Upson County,12/05/2020,Dec 05,218
 Upson County,12/12/2020,Dec 12,55
 Upson County,12/19/2020,Dec 19,110
 Upson County,12/26/2020,Dec 26,38
-Walker County,01/02/2021,Jan 02,306
+Upson County,01/02/2021,Jan 02,130
 Walker County,03/07/2020,Mar 07,10
 Walker County,03/14/2020,Mar 14,14
 Walker County,03/21/2020,Mar 21,32
@@ -6467,7 +6466,7 @@ Walker County,12/05/2020,Dec 05,157
 Walker County,12/12/2020,Dec 12,125
 Walker County,12/19/2020,Dec 19,95
 Walker County,12/26/2020,Dec 26,104
-Walton County,01/02/2021,Jan 02,200
+Walker County,01/02/2021,Jan 02,306
 Walton County,03/07/2020,Mar 07,24
 Walton County,03/14/2020,Mar 14,46
 Walton County,03/21/2020,Mar 21,62
@@ -6511,7 +6510,7 @@ Walton County,12/05/2020,Dec 05,217
 Walton County,12/12/2020,Dec 12,185
 Walton County,12/19/2020,Dec 19,199
 Walton County,12/26/2020,Dec 26,176
-Ware County,01/02/2021,Jan 02,136
+Walton County,01/02/2021,Jan 02,200
 Ware County,03/07/2020,Mar 07,30
 Ware County,03/14/2020,Mar 14,22
 Ware County,03/21/2020,Mar 21,8
@@ -6555,7 +6554,7 @@ Ware County,12/05/2020,Dec 05,164
 Ware County,12/12/2020,Dec 12,118
 Ware County,12/19/2020,Dec 19,152
 Ware County,12/26/2020,Dec 26,114
-Warren County,01/02/2021,Jan 02,19
+Ware County,01/02/2021,Jan 02,136
 Warren County,03/07/2020,Mar 07,6
 Warren County,03/14/2020,Mar 14,5
 Warren County,03/21/2020,Mar 21,1
@@ -6599,7 +6598,7 @@ Warren County,12/05/2020,Dec 05,32
 Warren County,12/12/2020,Dec 12,14
 Warren County,12/19/2020,Dec 19,13
 Warren County,12/26/2020,Dec 26,9
-Washington County,01/02/2021,Jan 02,36
+Warren County,01/02/2021,Jan 02,19
 Washington County,03/07/2020,Mar 07,9
 Washington County,03/14/2020,Mar 14,3
 Washington County,03/21/2020,Mar 21,11
@@ -6643,7 +6642,7 @@ Washington County,12/05/2020,Dec 05,44
 Washington County,12/12/2020,Dec 12,30
 Washington County,12/19/2020,Dec 19,40
 Washington County,12/26/2020,Dec 26,15
-Wayne County,01/02/2021,Jan 02,92
+Washington County,01/02/2021,Jan 02,36
 Wayne County,03/07/2020,Mar 07,18
 Wayne County,03/14/2020,Mar 14,14
 Wayne County,03/21/2020,Mar 21,24
@@ -6687,7 +6686,7 @@ Wayne County,12/05/2020,Dec 05,132
 Wayne County,12/12/2020,Dec 12,94
 Wayne County,12/19/2020,Dec 19,112
 Wayne County,12/26/2020,Dec 26,74
-Webster County,01/02/2021,Jan 02,7
+Wayne County,01/02/2021,Jan 02,92
 Webster County,03/07/2020,Mar 07,1
 Webster County,03/14/2020,Mar 14,1
 Webster County,03/21/2020,Mar 21,1
@@ -6731,7 +6730,7 @@ Webster County,12/05/2020,Dec 05,5
 Webster County,12/12/2020,Dec 12,6
 Webster County,12/19/2020,Dec 19,2
 Webster County,12/26/2020,Dec 26,3
-Wheeler County,01/02/2021,Jan 02,86
+Webster County,01/02/2021,Jan 02,7
 Wheeler County,03/07/2020,Mar 07,6
 Wheeler County,03/14/2020,Mar 14,2
 Wheeler County,03/21/2020,Mar 21,0
@@ -6775,7 +6774,7 @@ Wheeler County,12/05/2020,Dec 05,20
 Wheeler County,12/12/2020,Dec 12,28
 Wheeler County,12/19/2020,Dec 19,14
 Wheeler County,12/26/2020,Dec 26,10
-White County,01/02/2021,Jan 02,75
+Wheeler County,01/02/2021,Jan 02,86
 White County,03/07/2020,Mar 07,11
 White County,03/14/2020,Mar 14,37
 White County,03/21/2020,Mar 21,17
@@ -6819,7 +6818,7 @@ White County,12/05/2020,Dec 05,60
 White County,12/12/2020,Dec 12,58
 White County,12/19/2020,Dec 19,79
 White County,12/26/2020,Dec 26,31
-Whitfield County,01/02/2021,Jan 02,1662
+White County,01/02/2021,Jan 02,75
 Whitfield County,03/07/2020,Mar 07,87
 Whitfield County,03/14/2020,Mar 14,59
 Whitfield County,03/21/2020,Mar 21,74
@@ -6863,7 +6862,7 @@ Whitfield County,12/05/2020,Dec 05,946
 Whitfield County,12/12/2020,Dec 12,342
 Whitfield County,12/19/2020,Dec 19,443
 Whitfield County,12/26/2020,Dec 26,532
-Wilcox County,01/02/2021,Jan 02,30
+Whitfield County,01/02/2021,Jan 02,1662
 Wilcox County,03/07/2020,Mar 07,8
 Wilcox County,03/14/2020,Mar 14,2
 Wilcox County,03/21/2020,Mar 21,8
@@ -6907,7 +6906,7 @@ Wilcox County,12/05/2020,Dec 05,28
 Wilcox County,12/12/2020,Dec 12,8
 Wilcox County,12/19/2020,Dec 19,38
 Wilcox County,12/26/2020,Dec 26,8
-Wilkes County,01/02/2021,Jan 02,24
+Wilcox County,01/02/2021,Jan 02,30
 Wilkes County,03/07/2020,Mar 07,10
 Wilkes County,03/14/2020,Mar 14,12
 Wilkes County,03/21/2020,Mar 21,4
@@ -6951,7 +6950,7 @@ Wilkes County,12/05/2020,Dec 05,42
 Wilkes County,12/12/2020,Dec 12,18
 Wilkes County,12/19/2020,Dec 19,20
 Wilkes County,12/26/2020,Dec 26,12
-Wilkinson County,01/02/2021,Jan 02,32
+Wilkes County,01/02/2021,Jan 02,24
 Wilkinson County,03/07/2020,Mar 07,8
 Wilkinson County,03/14/2020,Mar 14,16
 Wilkinson County,03/21/2020,Mar 21,4
@@ -6995,7 +6994,7 @@ Wilkinson County,12/05/2020,Dec 05,34
 Wilkinson County,12/12/2020,Dec 12,34
 Wilkinson County,12/19/2020,Dec 19,20
 Wilkinson County,12/26/2020,Dec 26,16
-Worth County,01/02/2021,Jan 02,21
+Wilkinson County,01/02/2021,Jan 02,32
 Worth County,03/07/2020,Mar 07,14
 Worth County,03/14/2020,Mar 14,15
 Worth County,03/21/2020,Mar 21,8
@@ -7039,7 +7038,7 @@ Worth County,12/05/2020,Dec 05,35
 Worth County,12/12/2020,Dec 12,26
 Worth County,12/19/2020,Dec 19,19
 Worth County,12/26/2020,Dec 26,11
-"Albany, GA",01/02/2021,Jan 02,416
+Worth County,01/02/2021,Jan 02,21
 "Albany, GA",03/07/2020,Mar 07,79
 "Albany, GA",03/14/2020,Mar 14,158
 "Albany, GA",03/21/2020,Mar 21,103
@@ -7083,7 +7082,7 @@ Worth County,12/26/2020,Dec 26,11
 "Albany, GA",12/12/2020,Dec 12,345
 "Albany, GA",12/19/2020,Dec 19,392
 "Albany, GA",12/26/2020,Dec 26,270
-"Americus, GA",01/02/2021,Jan 02,92
+"Albany, GA",01/02/2021,Jan 02,416
 "Americus, GA",03/07/2020,Mar 07,14
 "Americus, GA",03/14/2020,Mar 14,41
 "Americus, GA",03/21/2020,Mar 21,17
@@ -7127,7 +7126,7 @@ Worth County,12/26/2020,Dec 26,11
 "Americus, GA",12/12/2020,Dec 12,99
 "Americus, GA",12/19/2020,Dec 19,67
 "Americus, GA",12/26/2020,Dec 26,79
-"Athens-Clarke County, GA",01/02/2021,Jan 02,511
+"Americus, GA",01/02/2021,Jan 02,92
 "Athens-Clarke County, GA",03/07/2020,Mar 07,46
 "Athens-Clarke County, GA",03/14/2020,Mar 14,82
 "Athens-Clarke County, GA",03/21/2020,Mar 21,380
@@ -7171,7 +7170,7 @@ Worth County,12/26/2020,Dec 26,11
 "Athens-Clarke County, GA",12/12/2020,Dec 12,351
 "Athens-Clarke County, GA",12/19/2020,Dec 19,404
 "Athens-Clarke County, GA",12/26/2020,Dec 26,444
-"Atlanta-Sandy Springs-Alpharetta, GA",01/02/2021,Jan 02,14980
+"Athens-Clarke County, GA",01/02/2021,Jan 02,511
 "Atlanta-Sandy Springs-Alpharetta, GA",03/07/2020,Mar 07,2320
 "Atlanta-Sandy Springs-Alpharetta, GA",03/14/2020,Mar 14,2804
 "Atlanta-Sandy Springs-Alpharetta, GA",03/21/2020,Mar 21,8388
@@ -7215,7 +7214,7 @@ Worth County,12/26/2020,Dec 26,11
 "Atlanta-Sandy Springs-Alpharetta, GA",12/12/2020,Dec 12,13525
 "Atlanta-Sandy Springs-Alpharetta, GA",12/19/2020,Dec 19,13488
 "Atlanta-Sandy Springs-Alpharetta, GA",12/26/2020,Dec 26,10349
-"Augusta-Richmond County, GA-SC",01/02/2021,Jan 02,967
+"Atlanta-Sandy Springs-Alpharetta, GA",01/02/2021,Jan 02,14980
 "Augusta-Richmond County, GA-SC",03/07/2020,Mar 07,225
 "Augusta-Richmond County, GA-SC",03/14/2020,Mar 14,160
 "Augusta-Richmond County, GA-SC",03/21/2020,Mar 21,225
@@ -7259,7 +7258,7 @@ Worth County,12/26/2020,Dec 26,11
 "Augusta-Richmond County, GA-SC",12/12/2020,Dec 12,954
 "Augusta-Richmond County, GA-SC",12/19/2020,Dec 19,848
 "Augusta-Richmond County, GA-SC",12/26/2020,Dec 26,801
-"Bainbridge, GA",01/02/2021,Jan 02,95
+"Augusta-Richmond County, GA-SC",01/02/2021,Jan 02,967
 "Bainbridge, GA",03/07/2020,Mar 07,7
 "Bainbridge, GA",03/14/2020,Mar 14,11
 "Bainbridge, GA",03/21/2020,Mar 21,25
@@ -7303,7 +7302,7 @@ Worth County,12/26/2020,Dec 26,11
 "Bainbridge, GA",12/12/2020,Dec 12,50
 "Bainbridge, GA",12/19/2020,Dec 19,54
 "Bainbridge, GA",12/26/2020,Dec 26,24
-"Brunswick, GA",01/02/2021,Jan 02,341
+"Bainbridge, GA",01/02/2021,Jan 02,95
 "Brunswick, GA",03/07/2020,Mar 07,47
 "Brunswick, GA",03/14/2020,Mar 14,65
 "Brunswick, GA",03/21/2020,Mar 21,79
@@ -7347,7 +7346,7 @@ Worth County,12/26/2020,Dec 26,11
 "Brunswick, GA",12/12/2020,Dec 12,283
 "Brunswick, GA",12/19/2020,Dec 19,349
 "Brunswick, GA",12/26/2020,Dec 26,283
-"Calhoun, GA",01/02/2021,Jan 02,485
+"Brunswick, GA",01/02/2021,Jan 02,341
 "Calhoun, GA",03/07/2020,Mar 07,45
 "Calhoun, GA",03/14/2020,Mar 14,53
 "Calhoun, GA",03/21/2020,Mar 21,51
@@ -7391,7 +7390,7 @@ Worth County,12/26/2020,Dec 26,11
 "Calhoun, GA",12/12/2020,Dec 12,190
 "Calhoun, GA",12/19/2020,Dec 19,159
 "Calhoun, GA",12/26/2020,Dec 26,178
-"Cedartown, GA",01/02/2021,Jan 02,203
+"Calhoun, GA",01/02/2021,Jan 02,485
 "Cedartown, GA",03/07/2020,Mar 07,28
 "Cedartown, GA",03/14/2020,Mar 14,62
 "Cedartown, GA",03/21/2020,Mar 21,73
@@ -7435,7 +7434,7 @@ Worth County,12/26/2020,Dec 26,11
 "Cedartown, GA",12/12/2020,Dec 12,86
 "Cedartown, GA",12/19/2020,Dec 19,82
 "Cedartown, GA",12/26/2020,Dec 26,94
-"Chattanooga, TN-GA",01/02/2021,Jan 02,555
+"Cedartown, GA",01/02/2021,Jan 02,203
 "Chattanooga, TN-GA",03/07/2020,Mar 07,28
 "Chattanooga, TN-GA",03/14/2020,Mar 14,27
 "Chattanooga, TN-GA",03/21/2020,Mar 21,58
@@ -7479,7 +7478,7 @@ Worth County,12/26/2020,Dec 26,11
 "Chattanooga, TN-GA",12/12/2020,Dec 12,221
 "Chattanooga, TN-GA",12/19/2020,Dec 19,182
 "Chattanooga, TN-GA",12/26/2020,Dec 26,194
-"Columbus, GA-AL",01/02/2021,Jan 02,1528
+"Chattanooga, TN-GA",01/02/2021,Jan 02,555
 "Columbus, GA-AL",03/07/2020,Mar 07,97
 "Columbus, GA-AL",03/14/2020,Mar 14,165
 "Columbus, GA-AL",03/21/2020,Mar 21,159
@@ -7523,7 +7522,7 @@ Worth County,12/26/2020,Dec 26,11
 "Columbus, GA-AL",12/12/2020,Dec 12,594
 "Columbus, GA-AL",12/19/2020,Dec 19,682
 "Columbus, GA-AL",12/26/2020,Dec 26,655
-"Cordele, GA",01/02/2021,Jan 02,118
+"Columbus, GA-AL",01/02/2021,Jan 02,1528
 "Cordele, GA",03/07/2020,Mar 07,24
 "Cordele, GA",03/14/2020,Mar 14,26
 "Cordele, GA",03/21/2020,Mar 21,15
@@ -7567,7 +7566,7 @@ Worth County,12/26/2020,Dec 26,11
 "Cordele, GA",12/12/2020,Dec 12,127
 "Cordele, GA",12/19/2020,Dec 19,130
 "Cordele, GA",12/26/2020,Dec 26,101
-"Cornelia, GA",01/02/2021,Jan 02,70
+"Cordele, GA",01/02/2021,Jan 02,118
 "Cornelia, GA",03/07/2020,Mar 07,17
 "Cornelia, GA",03/14/2020,Mar 14,174
 "Cornelia, GA",03/21/2020,Mar 21,42
@@ -7611,7 +7610,7 @@ Worth County,12/26/2020,Dec 26,11
 "Cornelia, GA",12/12/2020,Dec 12,87
 "Cornelia, GA",12/19/2020,Dec 19,81
 "Cornelia, GA",12/26/2020,Dec 26,74
-"Dalton, GA",01/02/2021,Jan 02,2582
+"Cornelia, GA",01/02/2021,Jan 02,70
 "Dalton, GA",03/07/2020,Mar 07,167
 "Dalton, GA",03/14/2020,Mar 14,123
 "Dalton, GA",03/21/2020,Mar 21,116
@@ -7655,7 +7654,7 @@ Worth County,12/26/2020,Dec 26,11
 "Dalton, GA",12/12/2020,Dec 12,604
 "Dalton, GA",12/19/2020,Dec 19,741
 "Dalton, GA",12/26/2020,Dec 26,846
-"Douglas, GA",01/02/2021,Jan 02,862
+"Dalton, GA",01/02/2021,Jan 02,2582
 "Douglas, GA",03/07/2020,Mar 07,150
 "Douglas, GA",03/14/2020,Mar 14,146
 "Douglas, GA",03/21/2020,Mar 21,82
@@ -7699,7 +7698,7 @@ Worth County,12/26/2020,Dec 26,11
 "Douglas, GA",12/12/2020,Dec 12,330
 "Douglas, GA",12/19/2020,Dec 19,410
 "Douglas, GA",12/26/2020,Dec 26,470
-"Dublin, GA",01/02/2021,Jan 02,563
+"Douglas, GA",01/02/2021,Jan 02,862
 "Dublin, GA",03/07/2020,Mar 07,73
 "Dublin, GA",03/14/2020,Mar 14,147
 "Dublin, GA",03/21/2020,Mar 21,47
@@ -7743,7 +7742,7 @@ Worth County,12/26/2020,Dec 26,11
 "Dublin, GA",12/12/2020,Dec 12,229
 "Dublin, GA",12/19/2020,Dec 19,253
 "Dublin, GA",12/26/2020,Dec 26,153
-"Eufaula, AL-GA",01/02/2021,Jan 02,1
+"Dublin, GA",01/02/2021,Jan 02,563
 "Eufaula, AL-GA",03/07/2020,Mar 07,0
 "Eufaula, AL-GA",03/14/2020,Mar 14,1
 "Eufaula, AL-GA",03/21/2020,Mar 21,0
@@ -7787,7 +7786,7 @@ Worth County,12/26/2020,Dec 26,11
 "Eufaula, AL-GA",12/12/2020,Dec 12,1
 "Eufaula, AL-GA",12/19/2020,Dec 19,1
 "Eufaula, AL-GA",12/26/2020,Dec 26,0
-"Fitzgerald, GA",01/02/2021,Jan 02,190
+"Eufaula, AL-GA",01/02/2021,Jan 02,1
 "Fitzgerald, GA",03/07/2020,Mar 07,10
 "Fitzgerald, GA",03/14/2020,Mar 14,8
 "Fitzgerald, GA",03/21/2020,Mar 21,44
@@ -7831,7 +7830,7 @@ Worth County,12/26/2020,Dec 26,11
 "Fitzgerald, GA",12/12/2020,Dec 12,50
 "Fitzgerald, GA",12/19/2020,Dec 19,53
 "Fitzgerald, GA",12/26/2020,Dec 26,45
-"Gainesville, GA",01/02/2021,Jan 02,326
+"Fitzgerald, GA",01/02/2021,Jan 02,190
 "Gainesville, GA",03/07/2020,Mar 07,54
 "Gainesville, GA",03/14/2020,Mar 14,94
 "Gainesville, GA",03/21/2020,Mar 21,130
@@ -7875,7 +7874,7 @@ Worth County,12/26/2020,Dec 26,11
 "Gainesville, GA",12/12/2020,Dec 12,317
 "Gainesville, GA",12/19/2020,Dec 19,270
 "Gainesville, GA",12/26/2020,Dec 26,233
-"Hinesville, GA",01/02/2021,Jan 02,174
+"Gainesville, GA",01/02/2021,Jan 02,326
 "Hinesville, GA",03/07/2020,Mar 07,33
 "Hinesville, GA",03/14/2020,Mar 14,48
 "Hinesville, GA",03/21/2020,Mar 21,46
@@ -7919,7 +7918,7 @@ Worth County,12/26/2020,Dec 26,11
 "Hinesville, GA",12/12/2020,Dec 12,148
 "Hinesville, GA",12/19/2020,Dec 19,192
 "Hinesville, GA",12/26/2020,Dec 26,119
-"Jefferson, GA",01/02/2021,Jan 02,224
+"Hinesville, GA",01/02/2021,Jan 02,174
 "Jefferson, GA",03/07/2020,Mar 07,46
 "Jefferson, GA",03/14/2020,Mar 14,78
 "Jefferson, GA",03/21/2020,Mar 21,110
@@ -7963,7 +7962,7 @@ Worth County,12/26/2020,Dec 26,11
 "Jefferson, GA",12/12/2020,Dec 12,258
 "Jefferson, GA",12/19/2020,Dec 19,184
 "Jefferson, GA",12/26/2020,Dec 26,180
-"Jesup, GA",01/02/2021,Jan 02,92
+"Jefferson, GA",01/02/2021,Jan 02,224
 "Jesup, GA",03/07/2020,Mar 07,18
 "Jesup, GA",03/14/2020,Mar 14,14
 "Jesup, GA",03/21/2020,Mar 21,24
@@ -8007,7 +8006,7 @@ Worth County,12/26/2020,Dec 26,11
 "Jesup, GA",12/12/2020,Dec 12,94
 "Jesup, GA",12/19/2020,Dec 19,112
 "Jesup, GA",12/26/2020,Dec 26,74
-"LaGrange, GA-AL",01/02/2021,Jan 02,267
+"Jesup, GA",01/02/2021,Jan 02,92
 "LaGrange, GA-AL",03/07/2020,Mar 07,37
 "LaGrange, GA-AL",03/14/2020,Mar 14,34
 "LaGrange, GA-AL",03/21/2020,Mar 21,46
@@ -8051,7 +8050,7 @@ Worth County,12/26/2020,Dec 26,11
 "LaGrange, GA-AL",12/12/2020,Dec 12,170
 "LaGrange, GA-AL",12/19/2020,Dec 19,156
 "LaGrange, GA-AL",12/26/2020,Dec 26,142
-"Macon-Bibb County, GA",01/02/2021,Jan 02,560
+"LaGrange, GA-AL",01/02/2021,Jan 02,267
 "Macon-Bibb County, GA",03/07/2020,Mar 07,94
 "Macon-Bibb County, GA",03/14/2020,Mar 14,127
 "Macon-Bibb County, GA",03/21/2020,Mar 21,210
@@ -8095,7 +8094,7 @@ Worth County,12/26/2020,Dec 26,11
 "Macon-Bibb County, GA",12/12/2020,Dec 12,537
 "Macon-Bibb County, GA",12/19/2020,Dec 19,615
 "Macon-Bibb County, GA",12/26/2020,Dec 26,412
-"Milledgeville, GA",01/02/2021,Jan 02,114
+"Macon-Bibb County, GA",01/02/2021,Jan 02,560
 "Milledgeville, GA",03/07/2020,Mar 07,21
 "Milledgeville, GA",03/14/2020,Mar 14,21
 "Milledgeville, GA",03/21/2020,Mar 21,16
@@ -8139,7 +8138,7 @@ Worth County,12/26/2020,Dec 26,11
 "Milledgeville, GA",12/12/2020,Dec 12,97
 "Milledgeville, GA",12/19/2020,Dec 19,102
 "Milledgeville, GA",12/26/2020,Dec 26,62
-"Moultrie, GA",01/02/2021,Jan 02,162
+"Milledgeville, GA",01/02/2021,Jan 02,114
 "Moultrie, GA",03/07/2020,Mar 07,70
 "Moultrie, GA",03/14/2020,Mar 14,42
 "Moultrie, GA",03/21/2020,Mar 21,44
@@ -8183,7 +8182,7 @@ Worth County,12/26/2020,Dec 26,11
 "Moultrie, GA",12/12/2020,Dec 12,142
 "Moultrie, GA",12/19/2020,Dec 19,142
 "Moultrie, GA",12/26/2020,Dec 26,122
-"Rome, GA",01/02/2021,Jan 02,497
+"Moultrie, GA",01/02/2021,Jan 02,162
 "Rome, GA",03/07/2020,Mar 07,62
 "Rome, GA",03/14/2020,Mar 14,45
 "Rome, GA",03/21/2020,Mar 21,100
@@ -8227,7 +8226,7 @@ Worth County,12/26/2020,Dec 26,11
 "Rome, GA",12/12/2020,Dec 12,260
 "Rome, GA",12/19/2020,Dec 19,199
 "Rome, GA",12/26/2020,Dec 26,225
-"Savannah, GA",01/02/2021,Jan 02,774
+"Rome, GA",01/02/2021,Jan 02,497
 "Savannah, GA",03/07/2020,Mar 07,133
 "Savannah, GA",03/14/2020,Mar 14,146
 "Savannah, GA",03/21/2020,Mar 21,508
@@ -8271,7 +8270,7 @@ Worth County,12/26/2020,Dec 26,11
 "Savannah, GA",12/12/2020,Dec 12,1029
 "Savannah, GA",12/19/2020,Dec 19,990
 "Savannah, GA",12/26/2020,Dec 26,727
-"St. Marys, GA",01/02/2021,Jan 02,88
+"Savannah, GA",01/02/2021,Jan 02,774
 "St. Marys, GA",03/07/2020,Mar 07,10
 "St. Marys, GA",03/14/2020,Mar 14,10
 "St. Marys, GA",03/21/2020,Mar 21,21
@@ -8315,7 +8314,7 @@ Worth County,12/26/2020,Dec 26,11
 "St. Marys, GA",12/12/2020,Dec 12,64
 "St. Marys, GA",12/19/2020,Dec 19,93
 "St. Marys, GA",12/26/2020,Dec 26,47
-"Statesboro, GA",01/02/2021,Jan 02,470
+"St. Marys, GA",01/02/2021,Jan 02,88
 "Statesboro, GA",03/07/2020,Mar 07,222
 "Statesboro, GA",03/14/2020,Mar 14,84
 "Statesboro, GA",03/21/2020,Mar 21,172
@@ -8359,7 +8358,7 @@ Worth County,12/26/2020,Dec 26,11
 "Statesboro, GA",12/12/2020,Dec 12,308
 "Statesboro, GA",12/19/2020,Dec 19,378
 "Statesboro, GA",12/26/2020,Dec 26,298
-"Summerville, GA",01/02/2021,Jan 02,270
+"Statesboro, GA",01/02/2021,Jan 02,470
 "Summerville, GA",03/07/2020,Mar 07,18
 "Summerville, GA",03/14/2020,Mar 14,10
 "Summerville, GA",03/21/2020,Mar 21,16
@@ -8403,7 +8402,7 @@ Worth County,12/26/2020,Dec 26,11
 "Summerville, GA",12/12/2020,Dec 12,150
 "Summerville, GA",12/19/2020,Dec 19,70
 "Summerville, GA",12/26/2020,Dec 26,107
-"Thomaston, GA",01/02/2021,Jan 02,130
+"Summerville, GA",01/02/2021,Jan 02,270
 "Thomaston, GA",03/07/2020,Mar 07,14
 "Thomaston, GA",03/14/2020,Mar 14,16
 "Thomaston, GA",03/21/2020,Mar 21,15
@@ -8447,7 +8446,7 @@ Worth County,12/26/2020,Dec 26,11
 "Thomaston, GA",12/12/2020,Dec 12,55
 "Thomaston, GA",12/19/2020,Dec 19,110
 "Thomaston, GA",12/26/2020,Dec 26,38
-"Thomasville, GA",01/02/2021,Jan 02,85
+"Thomaston, GA",01/02/2021,Jan 02,130
 "Thomasville, GA",03/07/2020,Mar 07,13
 "Thomasville, GA",03/14/2020,Mar 14,13
 "Thomasville, GA",03/21/2020,Mar 21,19
@@ -8491,7 +8490,7 @@ Worth County,12/26/2020,Dec 26,11
 "Thomasville, GA",12/12/2020,Dec 12,94
 "Thomasville, GA",12/19/2020,Dec 19,82
 "Thomasville, GA",12/26/2020,Dec 26,60
-"Tifton, GA",01/02/2021,Jan 02,83
+"Thomasville, GA",01/02/2021,Jan 02,85
 "Tifton, GA",03/07/2020,Mar 07,16
 "Tifton, GA",03/14/2020,Mar 14,19
 "Tifton, GA",03/21/2020,Mar 21,12
@@ -8535,7 +8534,7 @@ Worth County,12/26/2020,Dec 26,11
 "Tifton, GA",12/12/2020,Dec 12,116
 "Tifton, GA",12/19/2020,Dec 19,77
 "Tifton, GA",12/26/2020,Dec 26,89
-"Toccoa, GA",01/02/2021,Jan 02,70
+"Tifton, GA",01/02/2021,Jan 02,83
 "Toccoa, GA",03/07/2020,Mar 07,10
 "Toccoa, GA",03/14/2020,Mar 14,20
 "Toccoa, GA",03/21/2020,Mar 21,11
@@ -8579,7 +8578,7 @@ Worth County,12/26/2020,Dec 26,11
 "Toccoa, GA",12/12/2020,Dec 12,31
 "Toccoa, GA",12/19/2020,Dec 19,53
 "Toccoa, GA",12/26/2020,Dec 26,55
-"Valdosta, GA",01/02/2021,Jan 02,578
+"Toccoa, GA",01/02/2021,Jan 02,70
 "Valdosta, GA",03/07/2020,Mar 07,83
 "Valdosta, GA",03/14/2020,Mar 14,77
 "Valdosta, GA",03/21/2020,Mar 21,117
@@ -8623,7 +8622,7 @@ Worth County,12/26/2020,Dec 26,11
 "Valdosta, GA",12/12/2020,Dec 12,823
 "Valdosta, GA",12/19/2020,Dec 19,589
 "Valdosta, GA",12/26/2020,Dec 26,627
-"Vidalia, GA",01/02/2021,Jan 02,1050
+"Valdosta, GA",01/02/2021,Jan 02,578
 "Vidalia, GA",03/07/2020,Mar 07,46
 "Vidalia, GA",03/14/2020,Mar 14,48
 "Vidalia, GA",03/21/2020,Mar 21,48
@@ -8667,7 +8666,7 @@ Worth County,12/26/2020,Dec 26,11
 "Vidalia, GA",12/12/2020,Dec 12,144
 "Vidalia, GA",12/19/2020,Dec 19,134
 "Vidalia, GA",12/26/2020,Dec 26,88
-"Warner Robins, GA",01/02/2021,Jan 02,369
+"Vidalia, GA",01/02/2021,Jan 02,1050
 "Warner Robins, GA",03/07/2020,Mar 07,61
 "Warner Robins, GA",03/14/2020,Mar 14,49
 "Warner Robins, GA",03/21/2020,Mar 21,139
@@ -8711,7 +8710,7 @@ Worth County,12/26/2020,Dec 26,11
 "Warner Robins, GA",12/12/2020,Dec 12,396
 "Warner Robins, GA",12/19/2020,Dec 19,408
 "Warner Robins, GA",12/26/2020,Dec 26,304
-"Waycross, GA",01/02/2021,Jan 02,172
+"Warner Robins, GA",01/02/2021,Jan 02,369
 "Waycross, GA",03/07/2020,Mar 07,34
 "Waycross, GA",03/14/2020,Mar 14,33
 "Waycross, GA",03/21/2020,Mar 21,14
@@ -8755,7 +8754,7 @@ Worth County,12/26/2020,Dec 26,11
 "Waycross, GA",12/12/2020,Dec 12,141
 "Waycross, GA",12/19/2020,Dec 19,189
 "Waycross, GA",12/26/2020,Dec 26,134
-Central,01/02/2021,Jan 02,2701
+"Waycross, GA",01/02/2021,Jan 02,172
 Central,03/07/2020,Mar 07,268
 Central,03/14/2020,Mar 14,388
 Central,03/21/2020,Mar 21,339
@@ -8799,7 +8798,7 @@ Central,12/05/2020,Dec 05,1771
 Central,12/12/2020,Dec 12,1079
 Central,12/19/2020,Dec 19,1193
 Central,12/26/2020,Dec 26,787
-Coastal,01/02/2021,Jan 02,3846
+Central,01/02/2021,Jan 02,2701
 Coastal,03/07/2020,Mar 07,818
 Coastal,03/14/2020,Mar 14,635
 Coastal,03/21/2020,Mar 21,1052
@@ -8843,7 +8842,7 @@ Coastal,12/05/2020,Dec 05,3899
 Coastal,12/12/2020,Dec 12,2735
 Coastal,12/19/2020,Dec 19,3105
 Coastal,12/26/2020,Dec 26,2441
-East,01/02/2021,Jan 02,1445
+Coastal,01/02/2021,Jan 02,3846
 East,03/07/2020,Mar 07,333
 East,03/14/2020,Mar 14,271
 East,03/21/2020,Mar 21,317
@@ -8887,7 +8886,7 @@ East,12/05/2020,Dec 05,1540
 East,12/12/2020,Dec 12,1305
 East,12/19/2020,Dec 19,1207
 East,12/26/2020,Dec 26,1036
-Metro North,01/02/2021,Jan 02,3926
+East,01/02/2021,Jan 02,1445
 Metro North,03/07/2020,Mar 07,782
 Metro North,03/14/2020,Mar 14,876
 Metro North,03/21/2020,Mar 21,2579
@@ -8931,7 +8930,7 @@ Metro North,12/05/2020,Dec 05,4952
 Metro North,12/12/2020,Dec 12,4132
 Metro North,12/19/2020,Dec 19,3893
 Metro North,12/26/2020,Dec 26,3026
-Metro South,01/02/2021,Jan 02,2670
+Metro North,01/02/2021,Jan 02,3926
 Metro South,03/07/2020,Mar 07,326
 Metro South,03/14/2020,Mar 14,418
 Metro South,03/21/2020,Mar 21,1212
@@ -8975,7 +8974,7 @@ Metro South,12/05/2020,Dec 05,2705
 Metro South,12/12/2020,Dec 12,2099
 Metro South,12/19/2020,Dec 19,2459
 Metro South,12/26/2020,Dec 26,1727
-Metro West,01/02/2021,Jan 02,5528
+Metro South,01/02/2021,Jan 02,2670
 Metro West,03/07/2020,Mar 07,846
 Metro West,03/14/2020,Mar 14,960
 Metro West,03/21/2020,Mar 21,3723
@@ -9019,7 +9018,7 @@ Metro West,12/05/2020,Dec 05,6977
 Metro West,12/12/2020,Dec 12,5426
 Metro West,12/19/2020,Dec 19,5291
 Metro West,12/26/2020,Dec 26,4030
-Northeast,01/02/2021,Jan 02,2759
+Metro West,01/02/2021,Jan 02,5528
 Northeast,03/07/2020,Mar 07,425
 Northeast,03/14/2020,Mar 14,826
 Northeast,03/21/2020,Mar 21,1220
@@ -9063,7 +9062,7 @@ Northeast,12/05/2020,Dec 05,2932
 Northeast,12/12/2020,Dec 12,2382
 Northeast,12/19/2020,Dec 19,2297
 Northeast,12/26/2020,Dec 26,2021
-Northwest,01/02/2021,Jan 02,6237
+Northeast,01/02/2021,Jan 02,2759
 Northwest,03/07/2020,Mar 07,536
 Northwest,03/14/2020,Mar 14,568
 Northwest,03/21/2020,Mar 21,894
@@ -9107,7 +9106,7 @@ Northwest,12/05/2020,Dec 05,5670
 Northwest,12/12/2020,Dec 12,2303
 Northwest,12/19/2020,Dec 19,2168
 Northwest,12/26/2020,Dec 26,2377
-South,01/02/2021,Jan 02,2121
+Northwest,01/02/2021,Jan 02,6237
 South,03/07/2020,Mar 07,355
 South,03/14/2020,Mar 14,415
 South,03/21/2020,Mar 21,466
@@ -9151,7 +9150,7 @@ South,12/05/2020,Dec 05,2322
 South,12/12/2020,Dec 12,2027
 South,12/19/2020,Dec 19,1807
 South,12/26/2020,Dec 26,1567
-West,01/02/2021,Jan 02,3462
+South,01/02/2021,Jan 02,2121
 West,03/07/2020,Mar 07,394
 West,03/14/2020,Mar 14,556
 West,03/21/2020,Mar 21,630
@@ -9195,3 +9194,4 @@ West,12/05/2020,Dec 05,3148
 West,12/12/2020,Dec 12,2112
 West,12/19/2020,Dec 19,2340
 West,12/26/2020,Dec 26,1894
+West,01/02/2021,Jan 02,3462
